@@ -2,7 +2,7 @@
 
 # Why take private lessons?
 
-Some of the following will come across as if I'm trying to talk you out of taking lessons. That might seem strange, since I'm selling my services as a teacher. Yes, I enjoy teaching and yes, I could use the money, but I also want to be useful. I don't want to go through the motions just for a couple of bucks.
+Some of the following will come across as if I'm trying to talk you out of taking lessons. That might seem strange, since I'm selling my services as a teacher. Yes, I enjoy teaching and yes, I could use the money, but I also want to be useful. I don't want to go through the motions just for a couple of bucks. I don't want to waste your time, either.
 
 If private lessons can help you, then great: let's talk. But you might not need them. So, let us reason together.
 
@@ -28,7 +28,9 @@ Your goal doesn't have to be a grand, long-term objective. If you're a professio
 
 Do you want to improve generally, with no specific goal in mind? You can always practice with an eye toward general improvement. There's nothing wrong with that. 
 
-You may be able to do it on your own. Don't underestimate the effectiveness of self-discipline, study books, and YouTube videos. It's a powerful combination.
+You may be able to do it on your own. Don't underestimate the effectiveness of self-discipline, study books, and YouTube videos. It's a powerful combination. 
+
+On the other hand, the self-discipline element is critical. One benefit of private lessons is the schedule motivates you to practice specific things on a regular basis. Think about whether you need that motivator, or if you can maintain consistent practice on your own.
 
 Private lessons will supplement the learning you can obtain through the people and resources already available to you. Do you need guidance beyond that level? 
 
