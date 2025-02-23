@@ -14,3 +14,62 @@ Your personal concept of an instrument should be firmly based on that broad cons
 
 Cultivating a good concept is easier to accomplish with guidance from a private teacher. Group teachers such as band directors lack the time to devote this level of focus to each student and each instrument. 
 
+## Online resources 
+
+### General
+
+Tim Weir, Box Hill Institute  
+[Find your signature sound](https://www.youtube.com/watch?v=XG5zLdfP_cs) 
+
+### Euphonium 
+
+
+### Trombone 
+
+Paul the Trombonist  
+[How to get a great tone on the trombone](https://www.youtube.com/watch?v=yEqzXMQ0PJA)
+
+Dion Tucker (The Chops Shop) 
+[How to get a great sound on the trombone](https://www.youtube.com/watch?v=eT6r1_XsLSg)
+
+Paul the Trombonist 
+[How to get a dark warm trombone sound](https://www.youtube.com/watch?v=KknyUuQAo58)
+
+Peter Tijerina 
+[Getting great tone on trombone](https://www.youtube.com/watch?v=2iZi9nPwb6s)
+
+#### Trombonists to listen to 
+
+Nitzan Haroz  
+[Jean-Michel Dufay, "Deux Danses"](https://www.youtube.com/watch?v=OPa5goyh2Ak) 
+
+Michel Becquet 
+[Jean-Michel Dufay, "Deux Danses"](https://www.youtube.com/watch?v=iEjI8PMvFnc)
+
+Ian Bousfield  
+[Jean-Michel Dufay, "Deux Danses"](https://www.youtube.com/watch?v=g-RbV5IrZi4)
+
+Christian Lindberg  
+[Jean-Michel Dufay, "Deux Danses"](https://www.youtube.com/watch?v=E6dfwnBgq_A)
+
+Filipe Alves  
+[Eugene Bozza, "Ballade"](https://www.youtube.com/watch?v=upRzD3mnA4g)
+
+Kris Garfitt  
+[Eugene Bozza, "Ballade"](https://www.youtube.com/watch?v=RgcnOYZ5OOs)
+
+Fabrice Millischer  
+[Bert Appermont, "Colors for Trombone Solo and Band"](https://www.youtube.com/watch?v=UewOoFyeXMo)
+
+Eijiro Nakagawa  
+[Bert Appermont, "Colors for Trombone Solo and Band"](https://www.youtube.com/watch?v=EiWpS35bZjM)
+
+Sam Armstrong  
+[Bert Appermont, "Colors for Trombone Solo and Band"](https://www.youtube.com/watch?v=baK9rINOnRU)
+
+
+Martin Schippers with the brass of the Royal Concertgebouw Orchestra  
+[Astor Piazzolla, "Maria de Buenos Aires", arr. Steven Verhelst](https://www.youtube.com/watch?v=5Y8vi2S8Rx0)
+
+
+
