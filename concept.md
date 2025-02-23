@@ -29,13 +29,13 @@ Tim Weir, Box Hill Institute
 Paul the Trombonist  
 [How to get a great tone on the trombone](https://www.youtube.com/watch?v=yEqzXMQ0PJA)
 
-Dion Tucker (The Chops Shop) 
+Dion Tucker (The Chops Shop)  
 [How to get a great sound on the trombone](https://www.youtube.com/watch?v=eT6r1_XsLSg)
 
-Paul the Trombonist 
+Paul the Trombonist  
 [How to get a dark warm trombone sound](https://www.youtube.com/watch?v=KknyUuQAo58)
 
-Peter Tijerina 
+Peter Tijerina  
 [Getting great tone on trombone](https://www.youtube.com/watch?v=2iZi9nPwb6s)
 
 #### Trombonists to listen to 
@@ -43,7 +43,7 @@ Peter Tijerina
 Nitzan Haroz  
 [Jean-Michel Dufay, "Deux Danses"](https://www.youtube.com/watch?v=OPa5goyh2Ak) 
 
-Michel Becquet 
+Michel Becquet  
 [Jean-Michel Dufay, "Deux Danses"](https://www.youtube.com/watch?v=iEjI8PMvFnc)
 
 Ian Bousfield  
