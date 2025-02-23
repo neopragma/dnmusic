@@ -101,7 +101,7 @@ Dave Steinmeyer, April 1988 Mid-South Jazz Festival
 Sean Nelson with the New London Big Band  
 ["Beautiful Love"](https://www.youtube.com/watch?v=rRwJmz00Ecg) 
 
-Randy Purcell with the Maynard Ferguson Big Band 
+Randy Purcell with the Maynard Ferguson Big Band  
 "Feelings"
 https://www.youtube.com/watch?v=nxJUURlt1c8
 
@@ -120,6 +120,20 @@ Jorge Chinchilla
 Trombone Shorty with the White House Band (2012)  
 ["St. James Infirmary"](https://www.youtube.com/watch?v=FSbP6ZhfPs0)
 
+_Orchestral excerpts_ 
+
+SJ Park  
+[Maurice Ravel, "Bolero" - trombone solo](https://www.youtube.com/watch?v=3ahWiS--CUU)
+
+New York Philharmonic Low Brass, 2018  
+Colin Williams, David Finlayson, George Curran, Alan Baer  
+[G. Rossini, "Fountains of Rome"](https://www.youtube.com/watch?v=jxGVI_Jau68)
+
+Southeast Trombone Symposium, 2015  
+Colin Williams (NY Phil), Nathan Zgonc (ATL Sym), Brian Hecht (ATL Sym), 
+James Nova (Pittsburgh Sym), Bradley Palmer (Columbus State Univ.),
+Andrew Miller (Alabama Sym), Alan Baer (NY Phil)  
+[several orchestral excerpts](https://www.youtube.com/watch?v=IizUHzmcPGA)
 
 
 
