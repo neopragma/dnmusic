@@ -71,5 +71,55 @@ Sam Armstrong
 Martin Schippers with the brass of the Royal Concertgebouw Orchestra  
 [Astor Piazzolla, "Maria de Buenos Aires", arr. Steven Verhelst](https://www.youtube.com/watch?v=5Y8vi2S8Rx0)
 
+_Trombone choirs_ 
+
+Unidentified quartet  
+[Steven Verhelst, "Trombone Quartet No. 1"](https://www.youtube.com/watch?v=M01UQG5kd1A)
+
+U.S. Army Band Trombone Choir  
+Kyle Price, Austin Westjohn, Michael Burner, Ethan Scholl, Andrew Dougherty  
+[Dmitri Shostakovich, "Festive Overture"](https://www.youtube.com/watch?v=Gkge16rd-Ac) 
+
+Szeged Trombone Ensemble  
+György Gyivicsan, József Tóth, Zoltán Czirok, Tamás Asztalos, András Pálfy, József Vörös   
+Bass Trombone: Brandt Attema, Péter Vörös, Dávid Sztranyák  
+["Pirates of the Caribbean: Jack Sparrow Theme"](https://www.youtube.com/watch?v=oDt3Wtz6RIg)
+
+_Jazz, Latin, and rock players_ 
+
+Marshall Gilkes with the "Sin Filtro" Brass Ensemble  
+[Marshall Gilkes, "Cyclic Journey", 9th movement](https://www.youtube.com/watch?v=qFBuq-YASzE)
+
+
+Dave Steinmeyer with the US Air Force Airmen of Note  
+[Chick Corea, "Spain"](https://www.youtube.com/watch?v=WCjhaBsBvzk) 
+
+Dave Steinmeyer, April 1988 Mid-South Jazz Festival  
+["Ice Castles"](https://www.youtube.com/watch?v=s-uXRJXNGW0)
+
+
+Sean Nelson with the New London Big Band  
+["Beautiful Love"](https://www.youtube.com/watch?v=rRwJmz00Ecg) 
+
+Randy Purcell with the Maynard Ferguson Big Band 
+"Feelings"
+https://www.youtube.com/watch?v=nxJUURlt1c8
+
+Bert Boeren with the Jazz Orchestra of the Concertgebouw  
+["All the Things You Are"](https://www.youtube.com/watch?v=0Tfu2XvzdkQ)
+
+Carl Fontana with the Carl Fontana Quartet, 7/15/75  
+["Easy To Love"](https://www.youtube.com/watch?v=U0MgN0wI0Dk)
+
+Carl Fontana with the Carl Fontana Quartet, 7/15/75  
+["Autumn Leaves"](https://www.youtube.com/watch?v=7IwSdYXpNN8)
+
+Jorge Chinchilla  
+[Miley Cyrus, "Flowers"](https://www.youtube.com/watch?v=tTPiM9ZjWJc)
+
+Trombone Shorty with the White House Band (2012)  
+["St. James Infirmary"](https://www.youtube.com/watch?v=FSbP6ZhfPs0)
+
+
 
 
