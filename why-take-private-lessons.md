@@ -113,7 +113,7 @@ If I haven't talked you out of private lessons yet, then the next question might
 
 Depending on your goals and development needs, individualized guidance can include: 
 
-- concept
+- [concept](concept.md)
 - goal-setting and time management
 - mindful practice 
 - visualization 
