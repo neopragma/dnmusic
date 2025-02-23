@@ -21,32 +21,6 @@ I'm interested in working with people who love the same instruments as I do, and
 
 If you're considering private lessons, let's talk. The first session is free, and will focus on understanding your goals for playing, what sort of realistic commitment you can make to practicing, and an assessment of your current performance level. Based on that we can decide whether to go forward and, if so, lay out a plan to meet your goals. 
 
-Depending on your goals and development needs, individualized guidance can include: 
-
-- [concept](concept.md) of the instrument 
-- goal-setting and time management
-- mindful practice 
-- visualization 
-- posture 
-- breathing 
-- embouchure development 
-- articulation 
-- technic 
-- musical interpretation 
-- sight reading 
-- music theory 
-- music history 
-- acoustics 
-- human perception of sound 
-- audience engagement 
-- managing nerves 
-- audition preparation 
-- repertoire and excerpts 
-- functioning as a section leader or principal
-- basic improvisation
-- arranging and composition
-- instrument care
-
 ## On this site 
 
 - [Why take private lessons?](/why-take-private-lessons.md)

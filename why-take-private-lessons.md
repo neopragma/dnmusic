@@ -111,20 +111,31 @@ In a nutshell, a private teacher can augment what you can learn from your school
 
 If I haven't talked you out of private lessons yet, then the next question might be: What aspects of playing the euphonium or trombone can you expect to be covered in a program of private lessons?
 
-Private lessons can help with the following aspects of playing. 
+Depending on your goals and development needs, individualized guidance can include: 
 
-- [Concept](concept.md)
-- [Mindful practice](mindful-practice.md)
-- [Visualization](visualization.md)
-- [Understanding sound](sound.md)
-- [Body mechanics - euphonium](body-euphonium.md)
-- [Body mechanics - trombone](body-trombone.md)
-- [Reading printed music](reading-music.md)
-- Connecting the dots between music theory/history and direct application (playing)
-- Section leadership
-- Improvisation
-
-Body mechanics includes such things as breathing, posture, embouchure development, and technical playing.
+- concept
+- goal-setting and time management
+- mindful practice 
+- visualization 
+- posture 
+- breathing 
+- embouchure development 
+- articulation 
+- technic 
+- musical interpretation 
+- sight reading 
+- music theory 
+- music history 
+- acoustics 
+- human perception of sound 
+- audience engagement 
+- managing nerves 
+- audition preparation 
+- repertoire and excerpts 
+- functioning as a section leader or principal
+- basic improvisation
+- arranging and composition
+- instrument care
 
 ## Still not sure? 
 
