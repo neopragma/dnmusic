@@ -2,6 +2,9 @@
 
 I'm a euphoniumist/trombonist and composer/arranger. Now retired, I live in Tucson, Arizona, US.
 
+Email: dnmusic at eclipso dot eu
+Mastodon: @davenicolette@vivaldi.net
+
 ## Sheet music 
 
 You can find my compositions and arrangements on the following sites:
