@@ -8,7 +8,7 @@ For all designs of euphonium, we want to support the weight of the instrument wi
 
 ![4-valve non-compensating model with rotary valves](images/4-valve-non-compensating-rotary.png){width=200px}
 
-![<img src="images/4-valve-non-compensating-rotary.png" width=200"](images/4-valve-non-compensating-rotary.png)
+<img src="images/4-valve-non-compensating-rotary.png" width=200" alt="4-valve non-compensating rotary valve euphonium"/>
 
 Figure 1: 4-valve non-compensating model with rotary valves front. Rotary valves are popular in Germany.
 
