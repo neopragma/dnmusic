@@ -36,7 +36,7 @@ Another reason is that players who learn jaw vibrato have difficulty turning it 
 
 ## Valve noise 
 
-Valve noise itself isn't a matter of "concept," but each player's _tolerance_ of valve noise is definitely part of their concept of the euphonium. 
+Valve noise itself isn't a matter of "concept." It's a physical reality. But each player's _tolerance_ of valve noise is definitely part of their concept of the euphonium. 
 
 The valves redirect the air stream from one path to another. They do this by channeling the air stream between the ends of different tubes. This is the same for rotary and piston valves. 
 
