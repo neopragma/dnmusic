@@ -144,5 +144,5 @@ When it's your turn to breathe, you fade out while another player fades in to jo
 
 Effective staggered breathing involves multiple skills. A clean, precise breath attack requires good embouchure development. A blended sound requires attentive listening and adaptation to the section and ensemble. Your personal concept of the instrument can't deviate so far from generally-accepted norms that your sound "sticks out." All players must be exactly in tune with each other. 
 
-
+So, there are several details to master to perform staggered breathing effectively. It usually requires section rehearsals, and must be revisited with each personnel change in the section. 
 
