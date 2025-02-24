@@ -10,8 +10,8 @@ Mastodon: @davenicolette@vivaldi.net
 
 You can find my compositions and arrangements on the following sites:
 
-- Sheet Music Direct - https://www.sheetmusicdirect.com/en-US/Search.aspx?query=Dave%20Nicolette 
-- Sheet Music Plus - https://www.sheetmusicplus.com/en/explore?q=Dave+Nicolette 
+- [Sheet Music Direct](https://www.sheetmusicdirect.com/en-US/Search.aspx?query=Dave%20Nicolette)   
+- [Sheet Music Plus](https://www.sheetmusicplus.com/en/explore?q=Dave+Nicolette)
 
 New pieces are added regularly, so check back from time to time to see what's available.
 
