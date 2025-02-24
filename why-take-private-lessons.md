@@ -118,7 +118,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - mindful practice 
 - visualization 
 - posture 
-- breathing 
+- [breathing](breathing.md) 
 - embouchure development 
 - articulation 
 - technic 

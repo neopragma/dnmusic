@@ -25,9 +25,5 @@ If you're considering private lessons, let's talk. The first session is free, an
 
 - [Why take private lessons?](/why-take-private-lessons.md)
 - [Concept](concept.md)
-- [Euphonium practice tips.](/euphonium-practice-tips.md)
-- [Trombone concept.](/trombone-concept.md)
-- [Trombone practice tips.](/trombone-practice-tips.md)
-- [Common myths about playing brass instruments.](/musical-myths.md)
-
+- [Breathing](breathing.md)
 
