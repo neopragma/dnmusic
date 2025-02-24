@@ -1,8 +1,9 @@
 # Dave Nicolette - Music 
 
-I'm a euphoniumist/trombonist and composer/arranger. Now retired, I live in Tucson, Arizona, US.
+I'm a euphoniumist/trombonist and composer/arranger.  
+Now retired, I live in Tucson, Arizona, US.
 
-Email: dnmusic at eclipso dot eu
+Email: dnmusic at eclipso dot eu  
 Mastodon: @davenicolette@vivaldi.net
 
 ## Sheet music 
