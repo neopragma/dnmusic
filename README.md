@@ -24,6 +24,30 @@ If you're considering private lessons, let's talk. The first session is free, an
 ## On this site 
 
 - [Why take private lessons?](/why-take-private-lessons.md)
+- Goal-setting and time management (coming soon)
+- Mindful practice (coming soon) 
+- Visualization (coming soon) 
 - [Concept](concept.md)
+- [Euphonium posture](euphonium-posture.md)
+- Trombone posture (coming soon) 
 - [Breathing](breathing.md)
+- Embouchure (coming soon) 
+- Articulation (coming soon) 
+- Technic (coming soon) 
+- Musical interpretation (coming soon) 
+- Sight reading (coming soon) 
+- Music theory (coming soon) 
+- Music history (coming soon) 
+- Acoustics (coming soon) 
+- Human perception of sound (coming soon) 
+- Audience engagement (coming soon) 
+- Managing nerves (coming soon) 
+- Audition preparation (coming soon) 
+- Repertoire and excerpts 
+- Functioning as a section leader or principal (coming soon)
+- Basic improvisation (coming soon)
+- Arranging and composition (coming soon)
+- Instrument care (coming soon)
+- Instrument design (coming soon)
+
 
