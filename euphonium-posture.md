@@ -6,21 +6,21 @@ The euphonium is a relatively large and heavy instrument. In addition, some euph
 
 For all designs of euphonium, we want to support the weight of the instrument with our left arm and leave our right arm as relaxed as possible so the fingers can move freely. Let's see how that might look. 
 
-![4-valve non-compensating model with rotary valves](images/4-valve-non-compensating-rotary.png)
+![4-valve non-compensating model with rotary valves](images/4-valve-non-compensating-rotary.png){width=200px}
 
 Figure 1: 4-valve non-compensating model with rotary valves front. Rotary valves are popular in Germany.
 
-![4-valve non-compensating model with piston valves](images/4-valve-non-compensating-piston.png)
+![4-valve non-compensating model with piston valves](images/4-valve-non-compensating-piston.png){width=200px}
 
 Figure 2: 4-valve non-compensating model with piston valves front. This is a 1908 model by Conn.
 
-![4-valve compensating model with piston valves](images/4-valve-compensating-piston-with-valves-front.png)
+![4-valve compensating model with piston valves](images/4-valve-compensating-piston-with-valves-front.png){width=200px}
 
 Figure 3: 4-valve compensating model with piston valves front. John Powell demonstrating Wessex Festivo.
 
 For figures 1, 2, and 3: The musician supports the weight of the euphonium with the left arm. The placement of the valves in front makes it easy to center the weight of the instrument. 
 
-![4-valve non-compensating model with valves on top](images/4-valve-non-compensating-valves-on-top.png)
+![4-valve non-compensating model with valves on top](images/4-valve-non-compensating-valves-on-top.png){width=200px}
 
 Figure 4: 4-valve non-compensating model with valves on top 
 
@@ -28,11 +28,11 @@ Designs with the main three (or all four) valves on top present a challenge for 
 
 The musician supports the weight of the euphonium with the left arm and angles the instrument to make it easier to reach the valves. The right hand is not bearing any weight and can be relaxed. 
 
-![4-valve-compensating model with main valves on top](images/4-valve-compensating-model-main-valves-top.png)
+![4-valve-compensating model with main valves on top](images/4-valve-compensating-model-main-valves-top.png){width=200px}
 
 Figure 5: 4-valve compensating model with main valves on top. Soloist Guido Nix in performance.
 
-![5-valve non-compensating model](images/5-valve-non-compensating-euphonium.png)
+![5-valve non-compensating model](images/5-valve-non-compensating-euphonium.png){width=200px}
 
 Figure 6: 5-valve non-compensating model with main valves on top. Fourth valve operated by left index finger, fifth valve operated by left thumb. 
 
@@ -44,11 +44,11 @@ You will see professionals who use suboptimal techniques and yet sound very good
 
 The fact these players are successful shows that you don't have to do everything "by the book" to succeed. Just keep in mind you might be making things harder than necessary for yourself.
 
-![Resting the euphonium on your lap and bending over it](images/incorrect-euphonium-posture-seated.png) 
+![Resting the euphonium on your lap and bending over it](images/incorrect-euphonium-posture-seated.png){width=200px} 
 
 Figure 7: Dr. Paul Carson demonstrates incorrect posture in the seated position. He is resting the instrument on his lap and folding his torso forward. This inhibits breath control. 
 
-![Slouching forward and bending the torso](images/incorrect-euphonium-posture-standing.png)
+![Slouching forward and bending the torso](images/incorrect-euphonium-posture-standing.png){width=200px}
 
 Figure 8: Professional soloist Arisa Makita bends her torso when playing in the standing position. This inhibits breath control. 
 
@@ -64,11 +64,11 @@ Because of the physical construction of the human arm and hand, the choice of fi
 
 That will _work_, sort of, but the player will become tired faster than necessary. The natural response when we get tired in that way is to slouch in an attempt to support the weight of the instrument against our body (when standing) or on our lap (when sitting). That "folds" our torso and bends the internal body parts that produce our air flow. 
 
-![Hiram Diaz and the U.S. Marine Band](images/Hiram%20Diaz.png)
+![Hiram Diaz and the U.S. Marine Band](images/Hiram%20Diaz.png){width=200px}
 
 Figure 9: Hiram Diaz, solo euphonium with the U.S. Marine Band, uses finger 3 to operate the 4th valve. 
 
-![Jan Jochems and the Montgomery County Concert Band](images/Jan%20Jochems.png)
+![Jan Jochems and the Montgomery County Concert Band](images/Jan%20Jochems.png){width=200px}
 
 Figure 10: Jan Jochems, soloing with the Mongomery County Concert Band, uses finger 3 to operate the 4th valve.
 
