@@ -48,6 +48,8 @@ For what it's worth, I'm in the latter camp. I tend to focus on clean playing to
 
 A second type of noise can occur when metallic parts come into direct contact. I've noticed this happening on Besson euphoniums. The valve caps are shaped like inverted cups. The problem may occur on other brands that have a similar valve cap design. 
 
-The (relatively) sharp edges of the caps eventually cut through the felt pads that prevent metal-to-metal contact. Then we hear a claking noise when the player closes a valve. Of course, this can be managed through routine instrument care; but it isn't a problem on models that have flat valve caps. 
+The (relatively) sharp edges of the caps eventually cut through the felt pads that prevent metal-to-metal contact. Then we hear a clanking noise when the player closes a valve. 
+
+Of course, this can be managed through routine instrument care; but it isn't a problem on models that have flat valve caps. The issue pertains to "concept" because different players will accept different levels of noise before they take corrective action. 
 
 
