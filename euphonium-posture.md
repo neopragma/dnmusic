@@ -6,7 +6,7 @@ The euphonium is a relatively large and heavy instrument. In addition, some euph
 
 For all designs of euphonium, we want to support the weight of the instrument with our left arm and leave our right arm as relaxed as possible so the fingers can move freely. Let's see how that might look. 
 
-![<img src="images/4-valve-non-compensating-rotary.png" width=200" alt="4-valve non-compensating rotary valve euphonium">]
+<img src="images/4-valve-non-compensating-rotary.png" width=200" alt="4-valve non-compensating rotary valve euphonium">
 
 (images/4-valve-non-compensating-rotary.png)
 
