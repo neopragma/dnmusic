@@ -8,6 +8,12 @@ The words _dark_, _rich_, _mellow_, _sweet_, and _full_ are commonly used to des
 
 Different players, all striving to achieve a sound that aligns with those words, have different ideas about what, exactly, _dark_ or _rich_ (or whatever) actually sound like. 
 
+While there are nuanced differences in how various players sound, there is a broad, general consensus about what a euphonium sounds like. As you develop your personal concept of the instrument, beware of deviating too far from the general consensus, or you will not pass any professional or university auditions. 
+
+People don't want players whose sound "sticks out" from the section, because it muddies the ensemble sound. 
+
+For solo work, audiences usually expect each instrument to sound a particular way, and they won't enjoy hearing an instrument played in a highly unusual way.
+
 ## Embouchure development  
 
 Many players emphasize embouchure development over most or all other aspects of playing. They build their embouchures in much the same way as a bodybuilder sculpts their muscles.
