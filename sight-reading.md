@@ -40,6 +40,67 @@ When you're first learning, you might have to think consciously about how to pro
 
 There are other symbols in the example that haven't been explained, but they are all standard, and once you learn them you never forget them.
 
+## Staves and clefs 
+
+Say we wanted to write music in a "spreadsheet" style, and we decided to use horizontal lines as a guide. Given an infinite number of horizontal lines, we can write an infinite number of notes on and between the lines. 
+
+But that would be very hard to read. Human vision doesn't handle a mass of closely-spaced parallel lines very well. Staring at that sort of pattern makes us dizzy.
+
+People decided to separate out a limited number of lines to make it easier to read the music. Some used four lines and some used five. Eventually, five lines became the standard convention. We call this set of five horizontal, parallel lines a _staff_. The example above shows a staff.
+
+The notes are written on the lines or in the spaces between the lines. Notes higher in pitch are written higher on the staff, and notes lower in pitch are written lower on the staff. 
+
+When a note doesn't "fit" on the staff, we add a short line, called a _ledger line_, so we can write notes above or below the staff. The first note in the example, a C, illustrates the use of a ledger line. 
+
+So far, so good. But how can we tell which note is represented by each line and space? I call those three notes C, D, and E, but how do I know those are the right notes?
+
+We need some way to indicate where the staff is positioned among the infinite number of possible notes. For that, we use a "key." 
+
+In this context, we mean "key" in the sense of a _legend_ on a map or diagram, and not "key" in the sense of a musical key like A Major or F Minor. 
+
+In the example, the swirly symbol on the left indicates that the note "G" is positioned on the second line from the bottom. We use an old word for "key", _clef_, for this kind of symbol. 
+
+There was a time when that symbol, or an earlier version of it, resembled the letter G. For that reason, it's called a _G clef_. 
+
+## The Great (or Grand) Staff 
+
+When keyboard instruments became standardized and common (organ, harpsichord, and later piano), people started to use the center of the keyboard as a reference point for notes and for musical notation. 
+
+They decided that the center of the keyboard was "middle C," and they agreed that music for keyboard instruments would be written on a pair of staves that they called the Great Staff or Grand Staff. 
+
+![](images/great-staff.png)
+
+There's middle C, in the middle of the keyboard and in the middle of the two staves that make up the Great Staff. 
+
+The lower of the two staves has a different _clef_ sign than the upper one. That one is called an _F clef_ because it shows the position of the note "F" on the staff, and earlier versions of the symbol resembled the letter F. It shows the F below middle C is written on the fourth line of the lower staff. 
+
+## Scientific Pitch Notation 
+
+After the piano was invented in the early 18th century, the Great Staff or Grand Staff became the reference point for written European or "Western" music. The standard 88-key keyboard became the reference for naming the _octaves_ in Western music, too. 
+
+This image (borrowed from allaboutmusictheory.com) illustrates the note naming convention defined by the Acoustical Society of America. They call it Scientific Pitch Notation.
+
+![](images/CsLabeledScientific.webp)
+
+Here's where the various C's appear on the Great Staff:
+
+![](images/note-names-on-great-staff.png)
+
+## Why C and not A?
+
+Why is C the basic note instead of A? After all, A is the first letter of the alphabet. 
+
+If we play only the white keys on a piano starting on C and going up to the next C, we get a _major scale_, also called the _ionian mode_. 
+
+Speculation has it that before the Renaissance, the _ionian_ mode was not popular. The _aeolian_ mode was the most popular. That's what you get when you play the white keys from A to A. 
+
+So, in those days it made sense to say A was the most basic starting note, and it was named for the first letter of the alphabet. Later, it made more sense to think of C as the most basic starting note.
+
+
+
+
+
+
 
 
 
