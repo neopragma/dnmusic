@@ -60,7 +60,7 @@ In this context, we mean "key" in the sense of a _legend_ on a map or diagram, a
 
 In the example, the swirly symbol on the left indicates that the note "G" is positioned on the second line from the bottom. We use an old word for "key", _clef_, for this kind of symbol. 
 
-There was a time when that symbol, or an earlier version of it, resembled the letter G. For that reason, it's called a _G clef_. 
+There was a time when that symbol, or an earlier version of it, resembled the letter G. For that reason, it's called a _G clef_. Originally, people were doing nothing more complicated than writing the letter G on the line where they intended to write the note G. 
 
 ## The Great (or Grand) Staff 
 
@@ -73,6 +73,8 @@ They decided that the center of the keyboard was "middle C," and they agreed tha
 There's middle C, in the middle of the keyboard and in the middle of the two staves that make up the Great Staff. 
 
 The lower of the two staves has a different _clef_ sign than the upper one. That one is called an _F clef_ because it shows the position of the note "F" on the staff, and earlier versions of the symbol resembled the letter F. It shows the F below middle C is written on the fourth line of the lower staff. 
+
+Unless otherwise indicated in the written music, a G clef always points to the G just above middle C, and an F clef always points to the F just below middle C.
 
 ## Scientific Pitch Notation 
 
@@ -94,7 +96,21 @@ If we play only the white keys on a piano starting on C and going up to the next
 
 Speculation has it that before the Renaissance, the _ionian_ mode was not popular. The _aeolian_ mode was the most popular. That's what you get when you play the white keys from A to A. 
 
-So, in those days it made sense to say A was the most basic starting note, and it was named for the first letter of the alphabet. Later, it made more sense to think of C as the most basic starting note.
+So, in those days it made sense to say A was the most basic starting note, and it was named for the first letter of the alphabet. Later, it made more sense to think of C as the most basic starting note. That's where we are today.
+
+## Euphonium and trombone 
+
+Where do the euphonium and trombone fit into this scheme? 
+
+![](images/euph-trb-b-flats.png)
+
+The euphonium and trombone are both based on Bb. That means the bore is 9 feet long, and a single standing wave 9 feet long sounds at the pitch of Bb1. There's more information about this on the [acoustics](images/acoustics.md) page. 
+
+If you divide that wavelength in half, two waves will fit into the 9-foot tube, sounding at a pitch of Bb2. Divide the fundamental into thirds, and you get F3; into fourths, you get Bb3; and so on. 
+
+## Transposing parts 
+
+
 
 
 
