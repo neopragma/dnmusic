@@ -68,18 +68,18 @@ In my opinion, these players exemplify the "ideal" euphonium concept with respec
 - Anthony Caillet 
 - David Ceste 
 - Hiram Diaz
-- Kevin Fenske
 - Boonyarit Kittaweepitak 
 - Demondrae Thurman
 - Glenn van Looy
 - Dave Werden 
 
-In my opinion, these players are very close to the level of those listed above. Each is impressive in a thousand ways. 
+In my opinion, these players are very close to the level of those listed above. Each is impressive in a many ways. 
 
 - David Childs
 - Emily Braverman
 - Marina Boselli
 - Nicholas Childs
+- Kevin Fenske
 - Mark Glover
 - Algirdas Matonis
 - Steven Mead
@@ -195,4 +195,44 @@ Marina Boselli with the Civica Filarmonica di Lugano
 Diego Lopez Ruiz with unidentified pianist  
 [Vladimir Cosma, "Euphonium Concerto"](https://www.youtube.com/watch?v=acODmwE70Rc)
 
+## Orchestral and band excerpts 
 
+Bryan Fulcher, Philharmonia Principal Trombonist  
+[Bydlo, Don Quixote, Mahler 7th, "Jupiter" from The Planets](https://www.youtube.com/watch?v=l5aomOpZoaU) 
+
+U.S. Army Field Band  
+[Roman Carnival Overture, Festival Variations, Festive Overture,
+The Cowboys, Holst 2nd Suite in F](https://www.youtube.com/watch?v=4zpqUAXeu9A)
+
+Adam Lessard and Irving Ray, U.S. Army Band  
+[Hindemith Symphony for Band euphonium excerpts](https://www.youtube.com/watch?v=NbN-TVrueOE) 
+
+## Etudes 
+
+Dave Childs  
+[Allegro Mosso in Eb Minor by Luigi Gatti, Etude No. 3](https://www.youtube.com/watch?v=Y7YSfH95SPg)
+
+Tyler Hardee  
+[Voxman p. 2, Bb Major - Adagio Cantabile](https://www.youtube.com/watch?v=Zx10saXEsno)
+
+Kevin Fenske  
+[TMEA 2024-2025 Euphonium All-State Etudes 
+ Voxman Db Major - Con moto 
+ G Minor - Lento 
+ A Major - Maestoso](https://www.youtube.com/watch?v=eiygppq8Euo) 
+
+## Vocalists to listen to 
+
+The character of the euphonium is similar to the character of the male opera voice in the baritone range. Listening to top-level singers can help cultivate a good euphonium concept. This is particularly helpful with respect to timbre and expressive interpretation. 
+
+Michael Spyres with the English National Opera Orchestra  
+[Rossini, "Largo al Factotum"](https://www.youtube.com/watch?v=-bhlWgyjEQs)
+
+Apollo Granforte (1932)  
+[Rossini, "Largo al Factotum"](https://www.youtube.com/watch?v=WxFOQVsE2Oo)
+
+Igor Onishchenko at the 2021 International Opera Singers Competition, Moscow  
+[Rossini, "Largo al Factotum"](https://www.youtube.com/watch?v=bHaXNRVVw-Y)
+
+Juan Carlos Heredia Seoul 2022  
+[Rossini, "Largo al Factotum"](https://www.youtube.com/watch?v=N76dMYjcVkk)
