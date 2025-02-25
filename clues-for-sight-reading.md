@@ -5,7 +5,7 @@ Assuming we develop our sight-reading skills to the point that we aren't struggl
 ## Example 1: W.A. Mozart, _Sonate_ K. 331
 
 Let's start with an example. Here's the top of the first page of Wolfgang Amadeus Mozart's _Sonate_, K. 331. This is not written for euphonium or trombone, but it illustrates the idea of looking for clues. 
-
+  
 ![](images/mozart-sonate-k331.png)
 
 There are things you have to learn about music in order to recognize the clues. All the necessary skills can be developed through reading, individual practice, and private lessons. 
