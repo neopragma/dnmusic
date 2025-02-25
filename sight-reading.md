@@ -104,11 +104,48 @@ Where do the euphonium and trombone fit into this scheme?
 
 ![](images/euph-trb-b-flats.png)
 
-The euphonium and trombone are both based on Bb. That means the bore is 9 feet long, and a single standing wave 9 feet long sounds at the pitch of Bb1. There's more information about this on the [acoustics](images/acoustics.md) page. 
+The euphonium and trombone are both based on Bb. The bore is 9 feet long, and a single standing wave 9 feet long sounds at the pitch of Bb1. 
 
-If you divide that wavelength in half, two waves will fit into the 9-foot tube, sounding at a pitch of Bb2. Divide the fundamental into thirds, and you get F3; into fourths, you get Bb3; and so on. 
+If you divide that wavelength in half, two waves will fit into the 9-foot tube, sounding at a pitch of Bb2. Divide the fundamental into thirds, and you get F3; into fourths, you get Bb3; and so on. There's more information about this on the [acoustics](images/acoustics.md) page. 
 
-## Transposing parts 
+## Adjustments for instrument range 
+
+Some instruments play much higher than the middle range of the piano, and some instruments much lower. It's difficult to read music that has more than about four (4) ledger lines. So, Western musical notation makes adjustments for some instruments.
+
+The convention emerged that the parts for certain high instruments were to sound one or two octaves higher than written, and the parts for certain low instruments were to sound one octave lower than written. 
+
+Music for xylophone, glockenspiel, and piccolo sounds one octave higher than written. Music for celesta sounds two octaves higher than written. Music for contrabass (double bass or string bass), contrabassoon, and some other "contra-" instruments sounds one octave lower than written. 
+
+![](images/piccolo-and-contrabassoon.png)
+
+The treble clef makes sense for the violin and the bass clef makes sense for the cello. But the middle range of the viola doesn't quite fit onto the treble or bass clef staves. 
+
+So, music for viola moves the staff to center it on the middle range of the instrument. Another clef, called a _C clef_, marks the line on which the _middle C_ (C4) is written. When the C clef brackets the third line of the staff, it's called _alto clef_. 
+
+![](images/string-quartet.png)
+
+Alto clef is relevant to the trombone, because in the 19th century most orchestral music called for alto trombones based on Eb or D rather than tenor trombones based on Bb. 
+
+Their middle range was a fourth or fifth higher than that for a modern-day tenor trombone. Writing their parts in bass clef would have resulted in too many ledger lines to be easily readable. 
+
+Alto clef is relevant to the euphonium because we often play music written for trombone, and we may encounter alto clef from time to time.
+
+## Clef position on the staff 
+
+Originally, the clef signs could be placed anywhere on the staff; that is, on any _line_. Clef signs never mark a _space_ on the staff. 
+
+Early on, the G clef (treble clef) position stabilized on the second line of the staff. It never appears elsewhere on the staff. 
+
+After some time, the F clef came to be used only for the third or fourth line of a staff. When it marked the third line, it was called "baritone clef." When it marked the fourth line, it was called "bass clef." Today, the F clef is always positioned on the fourth line, and is called "bass clef." 
+
+Originally, the C clef could be positioned on any line of the staff. Today, it appears either on the third line (alto clef) or fourth line (tenor clef). 
+
+Tenor clef is relevant for instruments that generally play in the low register, but may also play in a range that isn't convenient to write in bass clef. Yet, they don't go so high that alto clef makes sense. Tenor clef is between the two. 
+
+Music for trombone, euphonium, bassoon, and cello frequently changes between bass clef and tenor clef. 
+
+![](images/bass-clef-and-tenor-clef.png)
+
 
 
 
