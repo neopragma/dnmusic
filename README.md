@@ -39,7 +39,7 @@ If you're considering private lessons, let's talk. The first session is free, an
 - Articulation (coming soon) 
 - Technic (coming soon) 
 - Musical interpretation (coming soon) 
-- Sight reading (coming soon) 
+- [Sight reading](sight-reading.md) 
 - Music theory (coming soon) 
 - Music history (coming soon) 
 - Acoustics (coming soon) 
