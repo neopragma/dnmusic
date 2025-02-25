@@ -132,6 +132,27 @@ Music for trombone, euphonium, bassoon, and cello frequently changes between bas
 
 ![](images/bass-clef-and-tenor-clef.png)
 
+## Transposing parts 
+
+Many different instruments have been invented over the past several centuries. Some of them were designed to be "families" of instruments, with smaller versions playing higher notes and larger versions playing lower notes. 
+
+This was the case for recorders, oboes, and clarinets. For instance, the piccolo, soprano, and bass recorders were pitched on C, while the tenor recorder was pitched on F. Similarly, there were Eb, A, Bb, and F clarinets. 
+
+The instruments were built so that the same (or mostly the same) fingerings could be used on small and large variants. In principle, that enabled a musician to switch from one to another as demanded by the music in hand. 
+
+But all the parts were written in "concert pitch;" that is, the written notes were the same as they would be on a piano. So the musicians had to transpose their parts mentally to play instruments not based on C. 
+
+The convention emerged to write all the music for such instrument families in treble clef, transposed to match the pitch on which the instrument was based. That way, the fingerings for the written notes were the same for all sizes of instruments in a given instrument family. 
+
+Thus, a written C for a clarinet in A actually sounded a concert A, and a written C for a basset horn (a mid-sized clarinet in F) sounded a concert F. 
+
+The same applies to modern-day instruments. A written C for a clarinet in Bb sounds a concert Bb, and a written C for an alto clarinet in Eb sounds a concert Eb. The same player can play both instruments using the same fingerings. 
+
+When brass instruments became popular in the 19th century, instrument makers followed the same approach to build families of brass instruments. 
+
+[More on that on a separate page.](transposing-parts.md)
+
+
 
 
 

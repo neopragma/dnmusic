@@ -17,6 +17,16 @@ What makes this a realistic goal? A couple of things.
 - western musical notation follows consistent conventions [(read more)](music-notation.md) 
 - transposing parts for brass instruments follow the same pattern [(read more)](transposing-parts.md)
 
+## Euphonium/trombone notation
+
+![](images/clef-chart.png)
+
+C clefs are not used in transposed parts. Transposed parts always use treble or bass clef. 
+
+Clefs may change in any given part as the music moves higher or lower. 
+
+
+
 
 
 
