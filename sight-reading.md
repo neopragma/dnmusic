@@ -31,8 +31,11 @@ Clefs may change in any given part as the music moves higher or lower.
 
 Written music contains clues that can help us sight-read the _music_ and not just the _notes_. 
 
-Where do we look for clues in the written music? I've prepared some tips [on a separate page](clues-for-sight-reading.html).
+Where do we look for clues in the written music? I've prepared some examples to illustrate how we can find clues to help us sight-read music effectively.
 
+- [Example 1: Mozart _Sonate_, K 331 (general)](clues-example-1.md)
+- [Example 2: Shostakovich _Festive Overture_ (euphonium)](clues-example-2.md)
+- [Example 3: Rossini _William Tell_ (trombone)](clues-example-3.md)
 
 
 
