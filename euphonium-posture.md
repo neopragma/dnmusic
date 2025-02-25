@@ -70,7 +70,7 @@ Figure 9: Hiram Diaz, solo euphonium with the U.S. Marine Band, uses finger 3 to
 
 ![Jan Jochems and the Montgomery County Concert Band](images/Jan%20Jochems.png)
 
-Figure 10: Jan Jochems, soloing with the Mongomery County Concert Band, uses finger 3 to operate the 4th valve.
+Figure 10: Jan Jochems, soloing with the Montgomery County Concert Band, uses finger 3 to operate the 4th valve.
 
 Clearly, you can succeed on the instrument playing this way, but in both these cases the musicians would have an easier time of it if they exploited the natural mechanics of the human arm and hand more effectively. 
 
