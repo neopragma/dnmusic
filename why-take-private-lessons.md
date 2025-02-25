@@ -95,7 +95,7 @@ Even so, there are aspects of playing that are difficult to pick up in a group s
 
 While you certainly possess the native intelligence to figure everything out _eventually_, a qualified guide can help you stay on track toward your goals without wasting time going down blind alleys. 
 
-In some areas - particularly embouchure development, articulation, and technic - there's a risk of practicing "the wrong way" and reaching a plateau in your playing, then having to backtrack and re-build from scratch. It's twice as hard to break bad habits than it is to cultivate good ones from the outset. A private teacher can help you avoid this all-too-common problem.
+In some areas - particularly embouchure development, articulation, and technic - there's a risk of practicing "the wrong way" and reaching a plateau in your playing, then having to backtrack and re-build from scratch. It's twice as hard to break bad habits as it is to cultivate good ones from the outset. A private teacher can help you avoid this all-too-common problem.
 
 ## What (possible) gaps can private lessons fill?
 

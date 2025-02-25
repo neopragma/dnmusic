@@ -58,4 +58,141 @@ The (relatively) sharp edges of the caps eventually cut through the felt pads th
 
 Of course, this can be managed through routine instrument care; but it isn't a problem on models that have flat valve caps. The issue pertains to "concept" because different players will accept different levels of noise before they take corrective action. 
 
+## Players to listen to 
+
+In my opinion, these players exemplify the "ideal" euphonium concept with respect to timbre, clean transitions between notes, precision, expressive playing, technic, and audience engagement:
+
+- Bastien Baumet 
+- Roger Behrend
+- Brian Bowman
+- Anthony Caillet 
+- David Ceste 
+- Hiram Diaz
+- Kevin Fenske
+- Boonyarit Kittaweepitak 
+- Demondrae Thurman
+- Glenn van Looy
+- Dave Werden 
+
+In my opinion, these players are very close to the level of those listed above. Each is impressive in a thousand ways. 
+
+- David Childs
+- Emily Braverman
+- Marina Boselli
+- Nicholas Childs
+- Mark Glover
+- Algirdas Matonis
+- Steven Mead
+- Diego Lopez Ruiz
+- Daniel Thomas
+
+## YouTube videos of soloists 
+
+
+Bastien Baumet with l'Orchestre d'harmonie de la Ville du Havre  
+[Ricardo Molla, "The Unknown Soldier"](https://www.youtube.com/watch?v=v9xt3G7VnIo)
+
+Bastien Baumet with the Taichung Philharmonic Wind Ensemble  
+[Philip Sparke, "Harlequin"](https://www.youtube.com/watch?v=cIDVqtnnsvA)
+
+Bastien Baumet with unidentified wind band   
+[Ricardo Molla, "The Overton Window"](https://www.youtube.com/watch?v=CdMOBLIXwLQ)
+
+Bastien Baumet with the Banda Jovem Do Estado de Sao Paulo  
+[Johan De Meij, "UFO Concerto"](https://www.youtube.com/watch?v=B1djxIomWCc)
+
+Bastien Baumet with the Paris Police Band   
+[(composer?), "Riverdance"](https://www.youtube.com/watch?v=AYUS67qUN-4)
+
+Bastien Baumet with pianist Heera  
+[Georges Bizet, "Carmen fantasy", arr. Luc Vertommen](https://www.youtube.com/watch?v=IYjOIrDWn40)
+
+Bastien Baumet with the Societat Musical Lira Relleuense   
+[Astor Piazzolla, "Oblivion"](https://www.youtube.com/watch?v=HavCNcWlkGg)
+
+Bastien Baumet with the Societat Musical Lira Relleuense  
+[Bert Appermont, "The Green Hill"](https://www.youtube.com/watch?v=8GrGk9FVTlk)
+
+Bastien Baumet with Peter Graham (trumpet) and the Taichung Philharmonic Wind Ensemble  
+[Alexis Demailly, "Bravura"](https://www.youtube.com/watch?v=myz9ktIRKGs)
+
+Bastien Baumet with the Artenium Brass Band   
+[(composer?), "Once Upon a Time"](https://www.youtube.com/watch?v=dJq55_EFigo)
+
+Demondrae Thurman with the Bozeman Symphony Orchestra  
+[Anthony Barfield, "Heritage Concerto"](https://www.youtube.com/watch?v=0IsEIIoCOq4) 
+
+Demondrae Thurman with Martha Fischer, piano   
+["Deep River"](https://www.youtube.com/watch?v=xY8PSusg3Ek)
+
+Demondrae Thurman with prerecorded accompaniment  
+[Ben McMillan, "Mandelbrot's Dream"](https://www.youtube.com/watch?v=wBQBgHV7uQk)
+
+Brian Bowman and Demondrae Thurman  
+[Tom Davoran, "A Song From Wales"](https://www.youtube.com/watch?v=nSP3owB4NRI)
+
+Dave Werden with the U.S. Coast Guard Band  
+[John Hartmann, "La Belle Americaine"](https://www.youtube.com/watch?v=p9JVmTXaU24)
+
+Roger Behrend with Judy Buttery, piano  
+[William Wiedrich, "Reverie"
+New England Tuba Festival, 1984](https://www.youtube.com/watch?v=Xav-A7TUwOU)
+
+Roger Behrend with Caryl Conger, piano, and Emily Fisher, harp  
+[Album - "Roger Behrend: Euphonium", 10 tracks](https://www.youtube.com/watch?v=gprR_kalUEs&list=PLjMnGJpdqph_OYm4__o18fLopCBYAn3VO)
+
+David Ceste with the Orchestra Fiati di Valle Camonica  
+[Johann de Meij, "UFO Concerto"](https://www.youtube.com/watch?v=4zpnIJToBus)
+
+Boonyarit Kittaweepitak with the Thailand Philharmonic Orchestra  
+[Vladimir Cosma, "Euphonium Concerto"](https://www.youtube.com/watch?v=NSFPDzoXWAw)
+
+Hiram Diaz with the U.S. Marine Band  
+[Kevin Day, "Euphonium Concerto"](https://www.youtube.com/watch?v=MQZ7qW4mblg)
+
+Kevin Fenske with the University of Texas at Austin Symphony Band  
+[Patrick Schulz, "Concerto for Euphonium and Wind Ensemble"](https://www.youtube.com/watch?v=NzDhd-Q8DtA)
+
+Glenn van Looy with the BrassBand Uberetsch  
+[Steven Verhelst, "Once Upon a Time"](https://www.youtube.com/watch?v=5edBBEg4xgo)
+
+Anthony Caillet   
+[Astor Piazzolla, "Cafe 1930"](https://www.youtube.com/results?search_query=euphonium+soloists)
+
+Anthony Caillet with the Brassage Brass Band   
+[Caillet, "What if...?"](https://www.youtube.com/watch?v=PjjfYpiFKGI)
+
+Anthony Caillet   
+[Japanese traditional song, "Flower"](https://www.youtube.com/watch?v=VGe3TG3JLkI)
+
+Brian Bowman with Miya Suen, piano   
+[Benedetto Marcello, "Sonata in F Major" for bass, arr. Ostrander](https://www.youtube.com/watch?v=0q0thvyrExY) 
+
+Brian Bowman with the San Diego Summer Music Institute Wind Ensemble  
+[H.L. Clarke, "Carnival of Venice"](https://www.youtube.com/watch?v=edfkwj6BL_s)
+
+David Childs with Chris Williams, piano  
+[Karl Jenkins, "A Troika? Tidy!" from euphonium concerto](https://www.youtube.com/watch?v=K58nOhXL-DY)
+
+David Childs with the Greve Harmoniorkester  
+[Philip Sparke, "Pantomime"](https://www.youtube.com/watch?v=oPpSalT9AMY)
+
+Daniel Thomas with the Black Dyke brass band  
+[George Doughty, "Grandfather's Clock"](https://www.youtube.com/watch?v=3cXJJlf3l-s)
+
+Mark Glover with the Lion City Brass Band  
+["Devil's Tongue"](https://www.youtube.com/watch?v=BpxC5KbAsAY) 
+
+Steven Mead with the Sopron City Wind Band  
+[Arban, "Napoli Variations"](https://www.youtube.com/watch?v=T3kFoB2bGow) 
+
+Emily Braverman with the Co-operative Funeralcare Band North West  
+[Philip Sparke, "Pantomime"](https://www.youtube.com/watch?v=ii87uNuZEl8) 
+
+Marina Boselli with the Civica Filarmonica di Lugano  
+[Amilcare Ponchielli, "Concerto per Flicorno Basso"](https://www.youtube.com/watch?v=sjVFRHL5rt8)
+
+Diego Lopez Ruiz with unidentified pianist  
+[Vladimir Cosma, "Euphonium Concerto"](https://www.youtube.com/watch?v=acODmwE70Rc)
+
 
