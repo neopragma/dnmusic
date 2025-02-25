@@ -31,7 +31,7 @@ Clefs may change in any given part as the music moves higher or lower.
 
 Written music contains clues that can help us sight-read the _music_ and not just the _notes_. 
 
-Where do we look for clues in the written music? I've prepared some tips [on a separate page](clues-for-sight-reading.md).
+Where do we look for clues in the written music? I've prepared some tips [on a separate page](clues-for-sight-reading.html).
 
 
 
