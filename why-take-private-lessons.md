@@ -1,5 +1,3 @@
-[Main page](README.md)
-
 # Why take private lessons?
 
 Some of the following will come across as if I'm trying to talk you out of taking lessons. That might seem strange, since I'm selling my services as a teacher. Yes, I enjoy teaching and yes, I could use the money, but I also want to be useful. I don't want to go through the motions just for a couple of bucks. I don't want to waste your time, either.
@@ -132,7 +130,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - Audience engagement (coming soon) 
 - Managing nerves (coming soon) 
 - Audition preparation (coming soon) 
-- Repertoire and excerpts 
+- Repertoire and excerpts (coming soon)
 - Functioning as a section leader or principal (coming soon)
 - Basic improvisation (coming soon)
 - Arranging and composition (coming soon)

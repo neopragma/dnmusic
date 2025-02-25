@@ -47,7 +47,7 @@ If you're considering private lessons, let's talk. The first session is free, an
 - Audience engagement (coming soon) 
 - Managing nerves (coming soon) 
 - Audition preparation (coming soon) 
-- Repertoire and excerpts 
+- Repertoire and excerpts (coming soon)
 - Functioning as a section leader or principal (coming soon)
 - Basic improvisation (coming soon)
 - Arranging and composition (coming soon)
