@@ -4,6 +4,18 @@ Some of the following will come across as if I'm trying to talk you out of takin
 
 If private lessons can help you, then great: let's talk. But you might not need them. So, let us reason together.
 
+- [Goals and life balance](#goals-and-life-balance)
+  - [Can you state a goal?](#can-you-state-a-goal)
+  - [Can you achieve your goal without private lessons?](#can-you-achieve-your-goal-without-private-lessons)
+  - [Does your goal for playing align with your life situation?](#does-your-goal-for-playing-align-with-your-life-situation)
+- [Matching students and teachers](#matching-students-and-teachers)
+  - [A teacher for yourself](#a-teacher-for-yourself)
+  - [A teacher for your child](#a-teacher-for-your-child)
+- [What's the value-add of private lessons?](#whats-the-value-add-of-private-lessons)
+- [What (possible) gaps can private lessons fill?](#what-possible-gaps-can-private-lessons-fill)
+- [What general topics can private teachers cover?](#what-general-topics-can-private-teachers-cover)    
+- [Still not sure?](#still-not-sure)
+
 ## Goals and life balance 
 
 The first question to answer is: Would private lessons be helpful to _you_? 
