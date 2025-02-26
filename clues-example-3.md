@@ -42,7 +42,7 @@ In many cases (maybe most cases), we don't really know what the rest of the ense
 
 But in this case, the music as such is not entirely unfamiliar. We know a number of other instruments are playing in unison with us. In the band version, that includes the rest of the trombone section, the euphoniums, and the lower and middle woodwinds. 
 
-Why is this a clue? Take a look at the dynamic marking. It's _fortissimo_. Do you think it's necessary (or helpful) for every individual in half the band to be blasting away as loudly as they can? 
+Why is this a clue for sight-reading? Take a look at the dynamic marking. It's _fortissimo_. Do you think it's necessary (or helpful) for every individual in half the band to be blasting away as loudly as they can? 
 
 Most trombonists lose control when they approach their loudest possible dynamic level. They will tend to slow down and go off tempo. They also tend to splat the notes, and they run out of air quickly.
 
