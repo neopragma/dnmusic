@@ -14,9 +14,11 @@ People don't want players whose sound "sticks out" from the section, because it 
 
 For solo work, audiences usually expect each instrument to sound a particular way, and they won't enjoy hearing an instrument played in a highly unusual way.
 
+There are some links to YouTube videos at the bottom of this page that might help you get a sense of a "good" euphonium sound. 
+
 ## Embouchure development  
 
-Many players emphasize embouchure development over most or all other aspects of playing. They build their embouchures in much the same way as a bodybuilder sculpts their muscles.
+Many players emphasize [embouchure development](embouchure.md) over most or all other aspects of playing. They build their embouchures in much the same way as a bodybuilder sculpts their muscles.
 
 When taken to an extreme, this can result in a "muscular" sound that some people find inconsistent with ideas like _mellow_ and _sweet_. Some players are unable to eliminate "air" sounds mixed with their tone at softer dynamic levels. 
 
@@ -25,6 +27,10 @@ Yet, embouchure development is very important. We can't progress very far on the
 At the other extreme, a single-minded focus on relaxed playing and developing a _sweet_ tone can leave the player with limited range, reduced endurance, imprecise note initiation, and a "cracked" sound at louder dynamic levels.
 
 The key is to avoid both extremes; but exactly what constitutes "extreme" is a matter of personal judgment. Some players find the "muscular" tone perfectly suited to the instrument, while others find it harsh or rough. 
+
+Example 1: [Pasquale Cerone, "Gabriel's Oboe"](https://www.youtube.com/watch?v=3F8-_FYJKTQ)
+
+Example 2: [David Childs, "Gabriel's Oboe"](https://www.youtube.com/watch?v=VCqlMcUiFSk)
 
 You must decide for yourself what sort of sound you prefer.
 
@@ -282,3 +288,24 @@ Bertrand Chamayou, piano
 Gautier Capuçon, cello  
 [Gabriel Faure, "Sicilienne"](https://www.youtube.com/watch?v=1oZY4OJ4R-Y)  
 <span style="font-size:75%">Another example of good engagement with the music without excessive body movement. We don't want to be stock-still, but we don't want to distract the audience's attention from the music, either.</span>
+
+## Good intentions, good information, but...
+
+I've mentioned you can find all kinds of accurate and useful information on your own _via_ the Internet and books. Without the guidance of a teacher, you may not always recognize what is useful and what isn't. 
+
+This video is from the MusicProfessor channel on YouTube. The presenter makes good points about tone quality, as well as the importance of listening to yourself and trying to match your sound with a reference sound (what I call "concept"). He demonstrates three kinds of "bad" tone quality and accurately explains the causes. 
+
+YouTube: [MusicProfessor good tone quality on euphonium](https://www.youtube.com/watch?v=FPgD4N0KGhw) 
+
+But in my opinion, his demonstration of good tone quality still has some issues I do not think you should emulate, specifically: 
+
+- <span style="font-size:90%">He rests the instrument on his lap instead of supporting it fully with his left arm.</span> 
+- <span style="font-size:90%">Transitions between notes are not clean; there is valve noise.</span>
+- <span style="font-size:90%">The timbre is partway down the road toward _dark_, _rich_, _mellow_, _sweet_, and _full_, but it's not there yet. The destination is still somewhere beyond the horizon.</span> 
+- <span style="font-size:90%">The pronounced red ring around his lips after he plays indicates he is pressing the instrument against his mouth when he plays. This can interfere with the sound and cause the musician to tire quickly.</span>
+- <span style="font-size:90%">Thanks to the aforementioned ring, we can see that he positions the mouthpiece off center. That means the muscles of his embouchure on the left and right sides cannot operate symmetrically. That interferes with embouchure control. A player can overcome this with practice, but it is unnecessary extra work if only we position the mouthpiece correctly.</span>
+- <span style="font-size:90%">He sits perfectly still and doesn't seem to be engaged with the music, although the piece he has selected is highly emotional. His expression never changes and his body doesn't move.</span> 
+- <span style="font-size:90%">He maintains unvarying vibrato throughout. This is the problem I've mentioned elsewhere whereby the musician appears to substitute vibrato for clean sound. We need to have a clean sound as a base and then add vibrato as appropriate for musical effect.</span>
+
+
+
