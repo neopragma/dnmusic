@@ -52,9 +52,25 @@ At the indicated tempo, this means we're going to maintain a steady stream of ai
 
 #### Example 3, Clue 6: Implications about slide positions 
 
-Many students who are learning this piece spend time working through possible alternate slide positions slowly. It may take them several hours to arrive at a sequence of slide positions they feel works well with the music. At that point, we aren't talking about sight-reading anymore.
+Many players stick to the basic slide positions when first reading an unfamiliar piece. Once they gain some familiarity with the music, they start to explore alternate positions that can make the piece easier to play. 
 
-But if we look over the passages before we sight-read them, we can see hints about this. The notes themselves guide us toward reasonable choices of slide positions. 
+We can do better than that when sight-reading. Keep in mind a few rules of thumb. 
+
+First, we want to minimize changes of direction in slide movement. 
+
+Second, we want to choose slide positions based on the music that _follows_, so we're setting ourselves up for the next note or phrase. 
+
+Third, and subordinate to the second point, we want to minimize the distance we have to move the slide between notes. 
+
+If we look over the passages before we sight-read them, we can see hints about this. The notes themselves guide us toward reasonable choices of slide positions. 
+
+For instance, look at bars 2 and 3 on the third line of the excerpt. As we go from bar 2 to bar 3, we play C4 - Bb3 - C3. If we play C4 in 3rd position, the shortest distance to a Bb3 is 1st position. 
+
+But then we're in trouble at the beginning of the ascending run in bar 5. So we might plan to play the C4 in 3rd, the Bb3 in 5th, and the C3 in 6th. 
+
+We can _plan_ our approach to moving passages before we start playing the music. This might sound like a lot of details to remember. It _is_ a lot of details, but if we think about things like this all the time while we're practicing, it will become second nature. 
+
+As our eyes fall across each phrase, our brains will register hints about slide positions naturally. We really only need to do this for passages that look as if they might be challenging. 
 
 #### Example 3, Clue 7: Shape of the phrases
 
@@ -72,7 +88,9 @@ Assembling the pieces we have until now, we're planning to play these two phrase
 
 ![](images/william-tell-1.png)
 
-We have to change slide directions three times on the way up, but the distances are minimal. 
+Notice we never go all the way to _fortissimo_ even though the music is marked _fortissimo_. In context, that would be overkill and we would risk breaking tempo, missing notes, or sounding rough. 
+
+We have to change slide directions three times on the way up, but the distances are minimal. We've chosen slide positions that avoid long distances when we change direction. 
 
 We'll use a relaxed, flexible slide technique instead of trying to jam the slide precisely into position for each individual note (see [Trombone Posture](trombone-posture.md)).
 
@@ -87,6 +105,12 @@ Now let's apply the same thinking to the next phrases.
 ![](images/william-tell-2.png)
 
 We have enough knowledge to play the music expressively, even if it's our first time and we miss a few notes along the way. 
+
+If you're sight-reading in an audition situation, you will present yourself better if you demonstrate that you can play expressively on first reading than if you nail every note in a non-musical way. 
+
+If you're sight-reading in a rehearsal situation, you'll save the ensemble some rehearsal time by getting the musical style right earlier rather than later. 
+
+If you're sight-reading as part of individual practice, you'll gain precious time to focus on musicality rather than fighting with the notes. 
 
 #### Example 3: Summary 
 
