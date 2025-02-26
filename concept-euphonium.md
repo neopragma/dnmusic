@@ -28,6 +28,8 @@ At the other extreme, a single-minded focus on relaxed playing and developing a 
 
 The key is to avoid both extremes; but exactly what constitutes "extreme" is a matter of personal judgment. Some players find the "muscular" tone perfectly suited to the instrument, while others find it harsh or rough. 
 
+These two players have a sound that is consistent with the general consensus about the character of the euphonium. One has a more "muscular" sound than the other. Can you hear the difference? Do you have a preference?
+
 Example 1: [Pasquale Cerone, "Gabriel's Oboe"](https://www.youtube.com/watch?v=3F8-_FYJKTQ)
 
 Example 2: [David Childs, "Gabriel's Oboe"](https://www.youtube.com/watch?v=VCqlMcUiFSk)
