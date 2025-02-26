@@ -263,7 +263,7 @@ Samson Setu, Australian Singing Competition 2019
 
 ## Expressive playing, stage presence, and audience engagement 
 
-All professional euphonium soloists that I'm aware of tend to stand still while performing. Let's think about engaging with the music and with the audience as many other soloists do. 
+All professional euphonium soloists that I'm aware of (except Anthony Caillet) tend to stand still while performing. Let's think about engaging with the music and with the audience as many other soloists do. 
 
 Alessandro Beverari, clarinet  
 [E. Morricone, "Nuovo Cinema Paradiso"](https://www.youtube.com/watch?v=Ws7Yj1BuXRI)
@@ -274,3 +274,11 @@ Yo-Yo Ma, cello
 Katharina Mätzler, bassoon  
 [W.A. Mozart, "Concerto in Bb Major"](https://www.youtube.com/watch?v=TLQpI6nULdg)  
 <span style="font-size:75%">Note: I think of this as Mozart's Euphonium Concerto. The euphonium hadn't been invented at the time he composed it. That goes to show he was ahead of his time.</span>
+
+Bertrand Chamayou, piano  
+[Maurice Ravel, "Pavane for a Dead Princess"](https://www.youtube.com/watch?v=cwL4nSb9am8)  
+<span style="font-size:75%">Many musicians overthink and overembellish Ravel, but his style is simple and straightforward. How do we communicate engagement with the audience? Here we see it isn't necessary to emote excessively to convey the sense that you are engaged with the music. Mätzler moves much more than any euphonium soloist I've seen, but maybe it's too much movement. Chamayou communicates a lot of emotion through posture and facial expressions.</span>
+
+Gautier Capuçon, cello  
+[Gabriel Faure, "Sicilienne"](https://www.youtube.com/watch?v=1oZY4OJ4R-Y)  
+<span style="font-size:75%">Another example of good engagement with the music without excessive body movement. We don't want to be stock-still, but we don't want to distract the audience's attention from the music, either.</span>
