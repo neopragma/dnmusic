@@ -236,3 +236,41 @@ Igor Onishchenko at the 2021 International Opera Singers Competition, Moscow
 
 Juan Carlos Heredia Seoul 2022  
 [Rossini, "Largo al Factotum"](https://www.youtube.com/watch?v=N76dMYjcVkk)
+
+[Ruffo Titto Cafiero (1877-1953)](https://www.youtube.com/watch?v=awsJFi-mKmg)
+
+Michael Spyres at Classic FM Live 2024  
+[Puccini, "Nessun Dorma"](https://www.youtube.com/watch?v=eQ1Zo8hluNI)
+
+Luciano Pavarotti, The Three Tenors 1994  
+[Puccini, "Nessun Dorma"](https://www.youtube.com/watch?v=cWc7vYjgnTs)
+
+Luciano Pavarotti  
+[Schubert, "Ave Maria"](https://www.youtube.com/watch?v=XpYGgtrMTYs)
+
+Placido Domingo  
+[Schubert, "Ave Maria"](https://www.youtube.com/watch?v=9Mk_IUj2ccs)
+
+Jose Carreras  
+[Schubert, "Ave Maria"](https://www.youtube.com/watch?v=p1dYF3TBfYA)
+
+Matteo Bocelli  
+[Schubert, "Ave Maria"](https://www.youtube.com/watch?v=vGMWwEu_qnU)
+
+Samson Setu, Australian Singing Competition 2019  
+[Verdi, "Come Dal Ciel Precipita"](https://www.youtube.com/watch?v=QqVPB9q8rGg)  
+(Bonus: There's a cimbasso in the orchestra)
+
+## Expressive playing, stage presence, and audience engagement 
+
+All professional euphonium soloists that I'm aware of tend to stand still while performing. Let's think about engaging with the music and with the audience as many other soloists do. 
+
+Alessandro Beverari, clarinet  
+[E. Morricone, "Nuovo Cinema Paradiso"](https://www.youtube.com/watch?v=Ws7Yj1BuXRI)
+
+Yo-Yo Ma, cello  
+[Camille Saint-Saens, "The Swan"](https://www.youtube.com/watch?v=3qrKjywjo7Q)
+
+Katharina Mätzler, bassoon  
+[W.A. Mozart, "Concerto in Bb Major"](https://www.youtube.com/watch?v=TLQpI6nULdg)  
+<span style="font-size:75%">Note: I think of this as Mozart's Euphonium Concerto. The euphonium hadn't been invented at the time he composed it. That goes to show he was ahead of his time.</span>

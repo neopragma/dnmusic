@@ -60,7 +60,7 @@ Learning solo literature and excepts of euphonium parts from concert band, brass
 
 Excerpts and etudes are important for auditions. Most euphonium auditions call for almost exactly the same selections. It's possible to prepare years in advance of important auditions by gradually building our repertoire in these categories. 
 
-Your private teacher should progressively include the standard etudes and solos as your playing skills develop. Your daily practice should include one or two of these, alternating among them, to keep them fresh. 
+Your private teacher should progressively introduce the standard etudes and solos as your playing skills develop, and guide you in their interpretation. Your daily practice should include one or two of these, alternating among them, to keep them fresh. 
 
 
 
