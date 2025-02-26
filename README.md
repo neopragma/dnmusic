@@ -27,8 +27,8 @@ If you're considering private lessons, please check out the information under [W
 
 ## On this site 
 
-- [Why take private lessons?](/why-take-private-lessons.md)
-- [What do you need to know to play the euphonium well?](euph-need-1.md)
+- [Why take private lessons?](why-take-private-lessons.md)
+- [What do you need to know to play the euphonium well?](euphonium-need-to-know.md)
 - Equipment - euphonium (coming soon)
 - Equipment - trombone (coming soon)
 
