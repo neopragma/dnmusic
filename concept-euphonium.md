@@ -293,6 +293,8 @@ Gautier Capuçon, cello
 
 I've mentioned you can find all kinds of accurate and useful information on your own _via_ the Internet and books. Without the guidance of a teacher, you may not always recognize what is useful and what isn't. 
 
+#### Example 1
+
 This video is from the MusicProfessor channel on YouTube. The presenter makes good points about tone quality, as well as the importance of listening to yourself and trying to match your sound with a reference sound (what I call "concept"). He demonstrates three kinds of "bad" tone quality and accurately explains the causes. 
 
 YouTube: [MusicProfessor good tone quality on euphonium](https://www.youtube.com/watch?v=FPgD4N0KGhw) 
@@ -307,5 +309,20 @@ But in my opinion, his demonstration of good tone quality still has some issues 
 - <span style="font-size:90%">He sits perfectly still and doesn't seem to be engaged with the music, although the piece he has selected is highly emotional. His expression never changes and his body doesn't move.</span> 
 - <span style="font-size:90%">He maintains unvarying vibrato throughout. This is the problem I've mentioned elsewhere whereby the musician appears to substitute vibrato for clean sound. We need to have a clean sound as a base and then add vibrato as appropriate for musical effect.</span>
 
+#### Example 2
 
+In this video, Staff Sgt. Irving Ray, with the United States Army Band, offers a beginning lesson in playing the euphonium in which he demonstrates how to play the notes Bb, C, and D. 
+
+To qualify for the U.S. Army Band, one must be a top-notch musician. The auditions are highly competitive and the band is among the best in the world - probably in the top 5 globally. 
+
+And yet there are still some issues with this demonstration. If you're trying to develop the best possible euphonium _concept_, be aware of the issues so that you can obtain useful information without also getting into bad habits. 
+
+YouTube: [Irving Ray, First Notes: Bb, C, D](https://www.youtube.com/watch?v=nMBXmdQciSE) 
+
+The issues I see in this case are: 
+
+- <span style="font-size:90%">He is playing a non-compensating 4-valve euphonium with valves top, but he operates the 4th valve with the left hand. This necessitates reaching around the instrument and prevents him supporting its weight with his left arm. Therefore, he rests the horn on his lap. This can interfere with the airway.</span>
+- <span style="font-size:90%">As in the previous example, he develops a red ring around his lips when he plays, indicating excessive pressure against the mouthpiece. This can interfere with embouchure control and limit endurance.</span>
+- <span style="font-size:90%">The red ring around his lips is even more severely off-center than in the previous example. He must have had to work around this in order to develop strong playing skills; and he risks reaching a plateau in his playing that he won't be able to surpass without backtracking and "starting over" to an extent. This may also cause fatigue.</span>
+- <span style="font-size:90%">He begins each tone with a fairly hard articulation. This suggests he may habitually start notes with the tongue, rather than separating the "operations" of starting the buzz and articulating the note. This can lead to rough starts in certain styles of music.</span>
 
