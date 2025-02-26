@@ -23,35 +23,11 @@ I also accept commissions.
 
 I'm interested in working with people who love the same instruments as I do, and who are at least _somewhat_ serious about improving their playing. Whether your goals are ambitious or modest, I can help you achieve them. 
 
-If you're considering private lessons, let's talk. The first session is free, and will focus on understanding your goals for playing, what sort of realistic commitment you can make to practicing, and an assessment of your current performance level. Based on that we can decide whether to go forward and, if so, lay out a plan to meet your goals. 
+If you're considering private lessons, please check out the information under [Why take private lessons?](why-take-private-lessons) It covers reasons you may or may not benefit from lessons, things to look for in a teacher, topics that can be covered in a program of lessons, and general information that might be useful to you in any case.
 
 ## On this site 
 
 - [Why take private lessons?](/why-take-private-lessons.md)
-- Goal-setting and time management (coming soon)
-- Mindful practice (coming soon) 
-- Visualization (coming soon) 
-- [Concept](concept.md)
-- [Euphonium posture](euphonium-posture.md)
-- Trombone posture (coming soon) 
-- [Breathing](breathing.md)
-- Embouchure (coming soon) 
-- Articulation (coming soon) 
-- Technic (coming soon) 
-- Musical interpretation (coming soon) 
-- [Sight reading](sight-reading.md) 
-- Music theory (coming soon) 
-- Music history (coming soon) 
-- Acoustics (coming soon) 
-- Human perception of sound (coming soon) 
-- Audience engagement (coming soon) 
-- Managing nerves (coming soon) 
-- Audition preparation (coming soon) 
-- Repertoire and excerpts (coming soon)
-- Functioning as a section leader or principal (coming soon)
-- Basic improvisation (coming soon)
-- Arranging and composition (coming soon)
-- Instrument care (coming soon)
-- Instrument design (coming soon)
-
+- Equipment - euphonium (coming soon)
+- Equipment - trombone (coming soon)
 
