@@ -50,7 +50,7 @@ In fact, if we silently sight-sing the top line, which is the melody, we can tel
 
 #### Example 1: Summary 
 
-The music contains notes and rhythmic patters. Unless we're absolute beginners (which we all are at some point), we should not have to struggle with the notes or the rhythmic patterns in this piece. 
+The music contains notes and rhythmic patterns. Unless we're absolute beginners (which we all are at some point), we should not have to struggle with the notes or the rhythmic patterns in this piece. 
 
 We've seen each of these notes thousands of times before, even if we haven't seen them arranged in precisely this order. 
 

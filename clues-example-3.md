@@ -48,7 +48,7 @@ We can back off a little and play _forte_, and the overall effect will still be 
 
 Notice the _staccato_ markings over the eighth notes. How do we interpret those? Given the composer, the time period, and the general style of the music, we understand the dots mean _leggiero_, and not "hammer each note as hard as possible" or "splat the notes and stop them with your tongue."
 
-At the indicated tempo, this means we're going to maintain a steady stream of air and lightly interrupt the flow with our tongue to achieve a leggiero effect in a low-stress, relaxed way. 
+At the indicated tempo, this means we're going to maintain a steady stream of air and lightly interrupt the flow with our tongue to achieve a _leggiero_ effect in a low-stress, relaxed way. 
 
 #### Example 3, Clue 6: Implications about slide positions 
 
