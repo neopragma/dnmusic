@@ -259,7 +259,7 @@ Matteo Bocelli
 
 Samson Setu, Australian Singing Competition 2019  
 [Verdi, "Come Dal Ciel Precipita"](https://www.youtube.com/watch?v=QqVPB9q8rGg)  
-(Bonus: There's a cimbasso in the orchestra)
+<span style="font-size:75%">Bonus: There's a cimbasso in the orchestra</span>
 
 ## Expressive playing, stage presence, and audience engagement 
 
