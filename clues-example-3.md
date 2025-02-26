@@ -6,7 +6,11 @@ This is a portion of the 3rd trombone part in the band transcription of Rossini'
 
 #### Example 3, Clue 1: Composer's Name 
 
-Gioachino Rossini is best known for his operas, of which he composed 39 starting at the age of 18. All his work has a similar style, and it's a very familiar style. Knowing this is a Rossini piece gives us a big head start on playing it with the appropriate interpretation and expression, even the first time through.
+Gioachino Rossini is best known for his operas, of which he composed 39 starting at the age of 18. All his work has a similar style, and it's a very familiar style. 
+
+Knowing this is a Rossini piece gives us a big head start on playing it with the appropriate interpretation and expression, even the first time through.
+
+Increasing your knowledge of music history and of the styles of specific composers will improve your sight-reading ability. 
 
 #### Example 3, Clue 2: Time signature 
 
