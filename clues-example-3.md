@@ -46,6 +46,8 @@ Why is this a clue for sight-reading? Take a look at the dynamic marking. It's _
 
 Most trombonists lose control when they approach their loudest possible dynamic level. They will tend to slow down and go off tempo. They also tend to splat the notes, and they run out of air quickly.
 
+In Rossini's time, the music would have been performed by a mostly-string orchestra. The trombones would have been narrow-bore instruments with a lighter sound than today's symphonic trombones. Not all _fortissimos_ are created equal.
+
 We can back off a little and play _forte_, and the overall effect will still be _fortissimo_ as far as the audience is concerned. 
 
 #### Example 3, Clue 5: Articulation 
