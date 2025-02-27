@@ -31,7 +31,11 @@ Clefs may change in any given part as the music moves higher or lower.
 
 Written music contains clues that can help us sight-read the _music_ and not just the _notes_. 
 
-Where do we look for clues in the written music? I've prepared some examples to illustrate how we can find clues to help us sight-read music effectively.
+Even in an audition situation, which may be stressful, we have a couple of minutes to examine the music before we attempt to play it. We can identify potentially-problematic passages and mentally make a plan for the slide positions or alternate fingerings we want to use, before we start to play.
+
+Where do we look for clues in the written music? I've prepared some examples to illustrate how we can find clues to help us sight-read music effectively. 
+
+In some cases I've written out the "plan" for approaching the music. Of course, we won't write things out like that in real life. It's only to illustrate what's going on in our heads as we prepare to address a new piece of music for the first time.
 
 - [Example 1: Mozart _Sonate_, K 331 (general)](clues-example-1.md)
 - [Example 2: Shostakovich _Festive Overture_ (euphonium)](clues-example-2.md)
