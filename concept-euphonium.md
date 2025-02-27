@@ -68,7 +68,7 @@ A second type of noise can occur when metallic parts come into direct contact. T
 
 The valves are designed to enable free movement while avoiding metal-on-metal contact. Some of the parts are made of non-metal materials - plastic, nylon, rubber, felt, etc. 
 
-These parts - valve guides, silencer pads - can wear out through normal use of the instrument, and must be replaced. This is part of routine maintenance of the instrument, but many players let a lot of time pass before they get around to doing it, and their valves may become quite noisy. 
+These parts - valve guides, silencer pads - wear out through normal use of the instrument, and must be replaced. This is part of routine maintenance of the instrument, but many players let a lot of time pass before they get around to doing it, and their valves may become quite noisy. 
 
 I've seen this on all brands and models of euphonium. It seems to be a bigger issue on Bessons, because the valve caps are shaped like inverted cups, and their (relatively) sharp edges tend to cut through the silencer pads. 
 
@@ -295,7 +295,7 @@ Katharina Mätzler, bassoon
 
 Bertrand Chamayou, piano  
 [Maurice Ravel, "Pavane for a Dead Princess"](https://www.youtube.com/watch?v=cwL4nSb9am8)  
-<span style="font-size:75%">Many musicians overthink and overembellish Ravel, but his style is simple and straightforward. How do we communicate engagement with the audience? Here we see it isn't necessary to emote excessively to convey the sense that you are engaged with the music. Mätzler moves much more than any euphonium soloist I've seen, but maybe it's too much movement. Chamayou communicates a lot of emotion through posture and facial expressions.</span>
+<span style="font-size:75%">Many musicians overthink and overembellish Ravel, but his style is uncomplicated. How do we communicate engagement with the audience when the music is nuanced? Here we see it isn't necessary to emote excessively to convey the sense that you are engaged with the music. Chamayou communicates a lot of emotion through posture and facial expressions. Beverari and Mätzler move quite a bit as they play. Is it too much? It's a matter of personal preference.</span>
 
 Gautier Capuçon, cello  
 [Gabriel Faure, "Sicilienne"](https://www.youtube.com/watch?v=1oZY4OJ4R-Y)  
