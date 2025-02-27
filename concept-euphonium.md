@@ -52,6 +52,8 @@ Another reason is that players who learn jaw vibrato have difficulty turning it 
 
 Valve noise itself isn't a matter of "concept." It's a physical reality. But each player's _tolerance_ of valve noise is definitely part of their concept of the euphonium. 
 
+### Air puffs
+
 The valves redirect the air stream from one path to another. They do this by channeling the air stream between the ends of different tubes. This is the same for rotary and piston valves. 
 
 Inevitably, there will be a non-zero length of time when the air stream is split between the old and new paths as we close or open a valve. 
@@ -60,11 +62,19 @@ Some players don't care much about this and consider the noise part of the chara
 
 For what it's worth, I'm in the latter camp. I tend to focus on clean playing to a greater extent than most players I know - to the point that they sometimes tease me about it. 
 
-A second type of noise can occur when metallic parts come into direct contact. I've noticed this happening on Besson euphoniums. The valve caps are shaped like inverted cups. The problem may occur on other brands that have a similar valve cap design. 
+### Valve clatter
 
-The (relatively) sharp edges of the caps eventually cut through the felt pads that prevent metal-to-metal contact. Then we hear a clanking noise when the player closes a valve. 
+A second type of noise can occur when metallic parts come into direct contact. The instrument is made almost entirely of metal. 
 
-Of course, this can be managed through routine instrument care; but it isn't a problem on models that have flat valve caps. The issue pertains to "concept" because different players will accept different levels of noise before they take corrective action. 
+The valves are designed to enable free movement while avoiding metal-on-metal contact. Some of the parts are made of non-metal materials - plastic, nylon, rubber, felt, etc. 
+
+These parts - valve guides, silencer pads - can wear out through normal use of the instrument, and must be replaced. This is part of routine maintenance of the instrument, but many players let a lot of time pass before they get around to doing it, and their valves may become quite noisy. 
+
+I've seen this on all brands and models of euphonium. It seems to be a bigger issue on Bessons, because the valve caps are shaped like inverted cups, and their (relatively) sharp edges tend to cut through the silencer pads. 
+
+But it happens on all euphoniums, even high-end models like Willson and John Packer Sterling, which have flat valve caps. 
+
+Top professional soloists may not worry about this so much, as they receive instruments from manufacturers as a way for the manufacturers to promote their products through the soloists' public appearances, and through clinics sponsored by the manufacturers. They don't play a horn long enough for the non-metal parts to wear out. But for us mortals, regular maintenance of our equipment is advisable.
 
 ## Players to listen to 
 
