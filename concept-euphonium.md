@@ -91,7 +91,7 @@ In my opinion, these players exemplify the "ideal" euphonium concept with respec
 - Glenn van Looy
 - Dave Werden 
 
-In my opinion, these players are very close to the level of those listed above. Each is impressive in a many ways. 
+In my opinion, these players are very close to the level of those listed above. Each is impressive in many ways. 
 
 - David Childs
 - Emily Braverman
