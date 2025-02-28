@@ -243,6 +243,12 @@ Kevin Fenske
 
 The character of the euphonium is similar to the character of the male opera voice in the baritone range. Listening to top-level singers can help cultivate a good euphonium concept. This is particularly helpful with respect to timbre and expressive interpretation. 
 
+Jussi Björling  
+[Puccini, "Nessun Dorma"](https://www.youtube.com/watch?v=bUbA5y1hnFg)
+
+Jussi Björling  
+[Donizetti, "Una Furtiva Lagrima"](https://www.youtube.com/watch?v=aVjvFX98qMY)
+
 Michael Spyres with the English National Opera Orchestra  
 [Rossini, "Largo al Factotum"](https://www.youtube.com/watch?v=-bhlWgyjEQs)
 
@@ -301,6 +307,14 @@ Gautier Capuçon, cello
 [Gabriel Faure, "Sicilienne"](https://www.youtube.com/watch?v=1oZY4OJ4R-Y)  
 <span style="font-size:75%">Another example of good engagement with the music without excessive body movement. We don't want to be stock-still, but we don't want to distract the audience's attention from the music, either.</span>
 
+![](images/ma-eyebrows-question.png) 
+
+<span style="font-size:80%">Yo-Yo Ma answering Twitter questions, 2021.</span>
+
+![](images/joe-alessi-eyebrows.png) 
+
+<span style="font-size:80%">Joe Alessi, principal trombone with the New York Philarmonic, using his eyebrows during the 2019 recording of "Rains of Castamere" for the Epic Low Brass event.</span>
+
 ## Good intentions, good information, but...
 
 I've mentioned you can find all kinds of accurate and useful information on your own _via_ the Internet and books. Without the guidance of a teacher, you may not always recognize what is useful and what isn't. 
@@ -317,7 +331,7 @@ But in my opinion, his demonstration of good tone quality still has some issues 
 - <span style="font-size:90%">Transitions between notes are not clean; there is valve noise.</span>
 - <span style="font-size:90%">The timbre is partway down the road toward _dark_, _rich_, _mellow_, _sweet_, and _full_, but it's not there yet. The destination is still somewhere beyond the horizon.</span> 
 - <span style="font-size:90%">The pronounced red ring around his lips after he plays indicates he is pressing the instrument against his mouth when he plays. This can interfere with the sound and cause the musician to tire quickly.</span>
-- <span style="font-size:90%">Thanks to the aforementioned ring, we can see that he positions the mouthpiece off center. That means the muscles of his embouchure on the left and right sides cannot operate symmetrically. That interferes with embouchure control. A player can overcome this with practice, but it is unnecessary extra work if only we position the mouthpiece correctly. I want to point out that this is an easy habit to get into when we're playing a euphonium model that is held at an angle, because we automatically turn our face so the horn won't block our right eye.</span>
+- <span style="font-size:90%">Thanks to the aforementioned ring, we can see that he positions the mouthpiece off center. That means the muscles of his embouchure on the left and right sides cannot operate symmetrically. That interferes with embouchure control. A player can overcome this with practice, but it is unnecessary extra work if only we position the mouthpiece correctly. I want to point out that this is an easy habit to get into when we're playing a euphonium model that is held at an angle, because we automatically turn our face so the horn won't block our right eye. If your left eye is dominant, you'll naturally turn to the right so you can read the music and see the conductor with that eye; if your right eye is dominant, you'll turn to the left (unless you consciously self-correct).</span>
 - <span style="font-size:90%">He sits perfectly still and doesn't seem to be engaged with the music, although the piece he has selected is highly emotional. His expression never changes and his body doesn't move.</span> 
 - <span style="font-size:90%">He maintains unvarying vibrato throughout. This is the problem I've mentioned elsewhere whereby the musician appears to substitute vibrato for clean sound. We need to have a clean sound as a base and then add vibrato as appropriate for musical effect.</span>
 
