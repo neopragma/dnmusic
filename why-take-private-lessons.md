@@ -11,7 +11,7 @@ If private lessons can help you, then great: let's talk. But you might not need 
 - [Matching students and teachers](#matching-students-and-teachers)
   - [A teacher for yourself](#a-teacher-for-yourself)
   - [A teacher for your child](#a-teacher-for-your-child)
-  - [An unfortunate additional consideration for young women](young-women.md)
+  - [An unfortunate additional consideration for young women](#special-consideration-for-young-women)
 - [What's the value-add of private lessons?](#whats-the-value-add-of-private-lessons)
 - [What (possible) gaps can private lessons fill?](#what-possible-gaps-can-private-lessons-fill)
 - [What general topics can private teachers cover?](#what-general-topics-can-private-teachers-cover)    
