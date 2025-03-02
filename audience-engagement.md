@@ -63,3 +63,12 @@ Public speakers deliver each phrase of their presentation to a different section
 Performing as a soloist in front of a large audience works in the same way. You play each phrase of the music directly to a person seated near the stage or to an area of the auditorium farther from the stage. Shift your gaze in a more-or-less random way, so people won't start anticipating where you will look next.
 
 Vary the time you spend looking at any given part of the audience, so people won't start timing you and waiting for you to look elsewhere. 
+
+## Finishing 
+
+When they reach the end of a piece, many musicians simply stop playing. It's as if they are robots that are switched off abruptly upon releasing the last note. 
+
+It's more effective to "milk" the last phrase of a piece. If it's a slow, quiet ending, hang onto it as if the music is gripping you, and you can't let it go. Hold the final facial expression for a couple of seconds and reluctantly lower the instrument. If it's a loud ending in a fast piece, maintain the instrument in position for a couple of seconds before lowering it with a bit of a flourish. 
+
+The trick here is that the audience will remember the thoughtful or triumphant conclusion of the piece and forget all the mistakes you made along the way. The way you finish will stick in their memory as they leave the venue. Give them a strong ending to remember. If you give them a weak ending, they'll look for something else to remember instead...like your mistakes.
+
