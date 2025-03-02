@@ -48,6 +48,8 @@ You should respect your teacher, but respect has to go both ways or it is meanin
 
 The bottom line is there's nothing about music lessons that requires physical contact. So that's where the line is.
 
+Even verbal compliments that are unrelated to the music lessons may be a sign of unwanted attention. Your older male teacher should not comment on your hair, eyes, clothes, or anything else besides the lesson. 
+
 There are also reports of some of these men sending intimate photos of themselves via text messages or social media, and asking young students to do the same. That's another line. 
 
 You have to speak up immediately when something happens that bothers you. Maybe it's nothing and maybe it's something. Either way, don't remain silent and hope for the best.
