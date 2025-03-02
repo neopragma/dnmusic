@@ -1,8 +1,18 @@
 # Audience Engagement 
 
+In my opinion, our job as musicians is to communicate the emotional message of the music to the audience. I see music as a language of emotion, as opposed to a language of information like English. Composers have an emotional message in mind, and we're the conveyors of that message. 
+
+All the details of playing our instrument - breathing, embouchure, technic, articulation, phrasing, etc. - are the crude mechanical means we have to use to communicate the emotional message of the music. Due to the limitations of flesh and metal, those means are imperfect and we must work to minimize the extraneous sounds they produce; but that work is not the end goal of our art.
+
+Even if the piece you're playing doesn't touch you, it's still your job to communicate the emotion the composer intended to the audience. You might need to call upon your innate acting skills. The music won't move the audience if they can see it doesn't move you.  
+
+How to we communicate emotion through music? In part, we do it by demonstrating to the audience that the music moves us. In turn, they will feel moved, as well. If we stand perfectly still and stare straight ahead while we play, we aren't communicating anything on an emotional level. 
+
 ## Emotional communication 
 
-All professional euphonium soloists that I'm aware of (except Anthony Caillet) tend to stand still while performing. Let's think about engaging with the music and with the audience as many other soloists do. 
+All professional euphonium soloists that I'm aware of (except Anthony Caillet) tend to stand still while performing. Even if they make no mistakes at all, it still feels as if something is missing. 
+
+Take a look at these examples of musicians and see whether you feel as if they're communicating the emotional content of the music as they play. What are they doing differently? 
 
 Alessandro Beverari, clarinet  
 [E. Morricone, "Nuovo Cinema Paradiso"](https://www.youtube.com/watch?v=Ws7Yj1BuXRI)
@@ -32,3 +42,24 @@ Gautier Capuçon, cello
 
 ## Who or what to look at 
 
+Let's set aside the question of nervousness. That's covered on a separate page about [managing nerves](managing-nerves.md). Assuming you're managing your nerves, how do you connect with the audience on a personal level? 
+
+It's mainly a question of who and what you look at while you perform. Some of the time, you'll be swaying with the music with your eyes closed, but much of the time your eyes will be open. 
+
+There are two situations to consider. First, you may be playing as part of an ensemble. If the ensemble has a conductor, your attention will mainly be on the conductor, and you'll glance at your music from time to time. You don't need to look directly at the audience unless the conductor points you out to take a bow at the end of a piece. 
+
+If the ensemble doesn't have a conductor - maybe it's a small chamber ensemble - you'll be looking at the other members of the ensemble while you play. That helps everyone stay together. Then you'll look out across the audience when you take your bows. 
+
+When you're the featured soloist, it's a different story. Now you have to make each member of the audience feel as if you're playing just for them. 
+
+Fortunately, that isn't as hard as it may sound. You do the same thing many public speakers do. 
+
+Audience members who are close enough to the stage to see your face clearly will be able to tell when you're looking directly at them. 
+
+The people farther away in the auditorium or in an outdoor area can't tell exactly who you're looking at. When you look at a section of the audience, each person in that section gets the impression you're looking directly at them. 
+
+Public speakers deliver each phrase of their presentation to a different section of the audience (for the middle and rear area) or to an individual (in the closer areas). When they shift their gaze, they take care not to do it in a predictable way. Otherwise, people will stop listening to the talk and start guessing where the speaker will look next. 
+
+Performing as a soloist in front of a large audience works in the same way. You play each phrase of the music directly to a person seated near the stage or to an area of the auditorium farther from the stage. Shift your gaze in a more-or-less random way, so people won't start anticipating where you will look next.
+
+Vary the time you spend looking at any given part of the audience, so people won't start timing you and waiting for you to look elsewhere. 
