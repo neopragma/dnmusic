@@ -57,6 +57,8 @@ Musicians take many paths through life. Some are university educated, some are n
 
 There are several different university curricula in music, such as music education, music therapy, theory and composition, and performance. Within the area of music education, universities prepare two kinds of teachers to work in school systems - general music teachers who teach young children in a classroom setting, and band/orchestra directors who teach middle school and high school students in hopes of someday working at the university or professional level. 
 
+No university that I know of trains people specifically to be private music teachers for individual students.
+
 ### A teacher for yourself 
 
 There are two considerations for finding an effective teacher. Of course, the person's qualifications matter. Equally important is the rapport the two of you have. You need to be able to trust the teacher and to interact with them for 60 to 90 minutes at a time without becoming frustrated or annoyed. They need the same, too. 
