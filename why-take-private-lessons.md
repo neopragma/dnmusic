@@ -97,6 +97,10 @@ Even when they are a little older and starting to participate in school band or 
 
 When you see your child starting to show interest in becoming proficient on their instrument, look for a teacher on their behalf using the same sort of reasoning you would use to find a teacher for yourself, as suggested above. Even then, in most cases the band or orchestra director at their school will be able to provide all the teaching they need.
 
+### Special consideration for young women 
+
+Young women (and possibly young men, too) have to consider another factor when choosing a teacher, or deciding whether to continue working with their current teacher. I discuss it [on a separate page](young-women.md) because it's unpleasant.
+
 ## What's the value-add of private lessons?
 
 You can learn many aspects of musical performance by participating in school or community ensembles, by watching online videos that explain and demonstrate how to develop particular skills, and by practicing on your own. 
