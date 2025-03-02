@@ -139,7 +139,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - Music history (coming soon) 
 - Acoustics (coming soon) 
 - Human perception of sound (coming soon) 
-- Audience engagement (coming soon) 
+- [Audience engagement](audience-engagement.md)
 - Managing nerves (coming soon) 
 - Audition preparation (coming soon) 
 - Repertoire and excerpts (coming soon)
