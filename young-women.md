@@ -36,9 +36,9 @@ Some top musicians never heard that advice. They don't understand relationships,
 
 If you're taking ballroom dancing lessons or studying judo, there are times when your instructor must touch you physically. That's not the case with music lessons. There's never a reason for your music teacher to touch you, except when shaking your hand when they meet you. 
 
-Some people say they're "huggers" or "touchers," and they like to squeeze your shoulders or place an arm around you - often from behind when you aren't expecting it. 
+Some people say they're "huggers" or "touchers," and they like to squeeze your shoulders or place an arm around you - often from behind when you aren't expecting it. That "friendly" squeeze of your arm or the hand "casually" laid on your thigh is a red flag. 
 
-This happens to all kinds of people in various situations, such as offices and parties. It may happen to you during private music lessons. It happens to me, and I dislike it because I'm not a hugger. 
+This happens to all kinds of people in various situations, such as offices and parties. It may happen to you during private music lessons. 
 
 Some students are afraid to say it makes them uncomfortable because they don't want to offend their mentor, whom they respect. But respect has to go both ways. 
 
