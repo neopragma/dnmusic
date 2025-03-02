@@ -38,11 +38,13 @@ If you're taking ballroom dancing lessons or studying judo, there are times when
 
 Some people say they're "huggers" or "touchers," and they like to squeeze your shoulders or place an arm around you - often from behind when you aren't expecting it. That "friendly" squeeze of your arm or the hand "casually" laid on your thigh is a red flag. 
 
-This happens to all kinds of people in various situations, such as offices and parties. It may happen to you during private music lessons. 
+There are individuals who habitually lean into you when they speak to you, and touch you or lay a hand on you while they're talking. They may think nothing of it, or they may be testing the waters. Ask them to back off and respect your personal space. 
 
-Some students are afraid to say it makes them uncomfortable because they don't want to offend their mentor, whom they respect. But respect has to go both ways. 
+Some students are afraid to say their teacher's behavior makes them uncomfortable because they don't want to offend their mentor. They've been raised to respect people in positions of authority, and to do as they say. This is necessary with young children because they don't know enough about the world to protect themselves, and they need adult supervision. 
 
-If you tell him you don't like to be touched that way, he will stop touching you if he respects you. If, instead, he starts explaining why the touching is innocent, it should set off alarm bells in your head. 
+Once you reach an age where your body is maturing, some of the same older men who used to protect you may start to see you in a different way. Certainly, older men who didn't know you when you were younger will tend to see you as a woman and a prospective partner. But your music lessons are not dates. 
+
+You should respect your teacher, but respect has to go both ways or it is meaningless. If you tell him you don't like to be touched, he will stop touching you if he respects you. If, instead, he starts explaining why the touching is innocent, it should set off alarm bells in your head. 
 
 The bottom line is there's nothing about music lessons that requires physical contact. So that's where the line is.
 
