@@ -12,6 +12,12 @@ I disagree with that assumption. In my opinion, we should be able to play most W
 
 When we "woodshed" a piece, our goal is to polish the performance, not merely to learn the notes by rote.
 
+### Professional expectations
+
+If you get to the point that you're playing professionally, even part-time, the expectations will be different than they are in school ensembles. You'll be expected to play all or nearly all the music correctly on sight, and in some cases you'll be expected to transpose it on sight to accommodate singers whose vocal ranges differ from those for whom the music was originally written. 
+
+### My teaching
+
 My private teaching includes explicit practice of sight-reading with the goal to make the translation from notation to sound as automatic and natural as possible. 
 
 What makes this a realistic goal? A couple of things.
