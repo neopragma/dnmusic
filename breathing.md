@@ -54,7 +54,7 @@ The music we're playing won't pause and wait for us to breathe. We need to learn
 
 Musicians have found that by opening the mouth in an O shape we can quickly fill our lungs. We can also inhale through the nose, or through both the nose and mouth simultaneously. 
 
-The key thing is to pull the air in quickly and quietly and engage the instrument right away. 
+The key thing is to pull the air in quickly and quietly and engage the instrument right away. We don't want to hold the air and then start playing. That makes it harder to control the attack. 
 
 Good breathing technique overlaps with other techniques for playing. Our instrument will not be in contact with our lips while we inhale. Therfore, we need to cultivate the skill of hearing the next note we intend to play in our minds. 
 
@@ -129,6 +129,8 @@ Here are some instructional videos showing how to learn circular breathing:
 For an example of how circular breathing sounds when it's done well, here's a recording of trumpeter Wynton Marsalis performing Niccolò Paganini's _Moto Perpetuo_. Unlike any other recording I've heard of a wind musician playing this piece, this version is not overdubbed. Marsalis played it just as we hear it.
 
 [Perpetual motion](https://www.youtube.com/watch?v=pAfge_kArq0)
+
+Circular breathing may or may not come naturally to you. In my case, I struggled with it until one day I was running out of air at the end of a solo passage in a band piece during a concert. Since the last note of the solo was going to be ruined anyway, I tried a circular breath. It worked, and I didn't ruin the solo. That was the first time I did it successfully. It goes to show fear can be a motivator.
 
 ## Staggered breathing 
 
