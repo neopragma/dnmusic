@@ -2,7 +2,7 @@
 
 _Articulation_ is the use of the tongue or glottis to modify the style in which notes are started. Unfortunately, articulation is an aspect of brass playing that many teachers and musicians misunderstand. Therefore, it is an area of focus in my own private teaching. 
 
-Like certain other aspects of playing, articulation is an area that calls for live, one-on-one guidance. It's difficult to learn by watching videos and reading articles. To give you a sense of what to expect from me as a private teacher, let me offer some comments on a couple of online resources. You can see what I like or dislike about them, and judge for yourself whether you agree or disagree.
+Like certain other aspects of playing, articulation is an area that calls for live, one-on-one guidance. It's difficult to learn by watching videos and reading articles. To give you a sense of what to expect from me as a private teacher, let me offer some comments on few online resources. You can see what I like or dislike about them, and judge for yourself whether you agree or disagree.
 
 ## The good, the bad, and the ugly Internet resources on articulation
 
@@ -10,11 +10,11 @@ Like certain other aspects of playing, articulation is an area that calls for li
 
 Overall the article provides excellent information. I think some points deserve to be highlighted, and others call for some clarification or expansion. 
 
-I want to call out this part of the article:
+I like this point especially:
 
 "Students should certainly demonstrate fundamental abilities to maintain their air stream, set their embouchures, and buzz on their mouthpieces before adding tongues into the equation. Yet, introduced and practiced properly, articulation should build on those skills rather than interfere."
 
-Notice there is a distinction between buzzing and articulation. If a player can buzz without using the tongue, then clearly articulation cannot be the mechanism that starts notes. Remember this whenever you hear or read advice about articulation based on saying syllables, like _too_ and _doo_. 
+Notice there is a distinction between buzzing and articulation. If a player can buzz without using the tongue, then clearly articulation cannot be the mechanism that starts notes. Remember this whenever you hear or read advice about articulation based on saying syllables, like _too_ and _doo_. People talk far too much about syllables when they're explaining articulation on brass instruments. 
 
 The author goes on to say: "Fundamental articulation comprises three styles: slurring, separated tonguing, and connected tonguing." I think that's a good summary. 
 
@@ -32,8 +32,15 @@ In my opinion, players should practice basic articulations at a slow tempo using
 
 Players who never practice articulation with the glottis except when double- or triple-tonguing rapidly tend to play sloppily and to have difficulty transitioning between single and multiple tonguing. 
 
+### Example 2: [Algirdis Matonis: Tongue Accuracy and Clarity](https://www.youtube.com/watch?v=eEF1NYK4ysI)
 
-### Example 2: [The Salvation Army Canada and Bermuda Territory Brass Course, Lesson 2.4: Tonguing and Articulation](https://www.youtube.com/watch?v=zNhvpqtmezs) 
+In this video, euphoniumist Algirdis Matonis explains and demonstrates basic tonguing technique. I appreciate the way he explains the purpose of thinking about syllables when learning tonguing technique, and how he distinguishes between the front and back of the tongue. The video also explains how the tongue moves without focusing too much on pronouncing syllables. 
+
+The demonstration includes an X-ray video of a player executing single-tonguing techniques in low, middle, and high registers. The placement of the tip of the tongue and the horizontal movement of the tongue are clear, as is the position of the back of the tongue in each register. This is an excellent explanation and demonstration of basic tonguing technique. Although he does mention syllables, he doesn't dwell on this to the extent as most other people. 
+
+He uses the term "front of the note," as does Example 3 below, and I'm not a fan of that. What we're really doing is controlling the _envelope_ of the sound. I think the latter is a more accurate and useful description of what's happening. 
+
+### Example 3: [The Salvation Army Canada and Bermuda Territory Brass Course, Lesson 2.4: Tonguing and Articulation](https://www.youtube.com/watch?v=zNhvpqtmezs) 
 
 In my opinion, this well-intentioned video has the following issues: 
 
@@ -48,6 +55,12 @@ An articulation of some kind may be applied to the attack to achieve a given eff
 After offering a verbal explanation, the presenter demonstrates various articulations on the cornet. His note initiation is clear. It's possible he is not aware that he is doing two things when he initiates each note. He's thinking of the articulation and the act of starting the note as the same thing. 
 
 His thinking that way does not appear to interfere with his playing, but in my view it's better to understand what's really happening. I've heard players who conflate articulation with starting the note who can't perform a breath attack. Sometimes they attack notes too strongly or sharply in musical contexts where that is inappropriate. 
+
+### Example 4: [Bruce Chidester: Brass Articulation- The Many Positions of Tah and Dah](https://www.thetrumpetblog.com/brass-articulation-the-many-positions-of-tah-and-dah/)
+
+The author goes overboard (in my opinion) with the idea of syllables. When we articulate, we are not pronouncing syllables into our instruments. 
+
+
 
 
 
