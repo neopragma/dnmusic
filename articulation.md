@@ -9,7 +9,9 @@ I often say you can find a great deal of useful information online and in books 
 
 ## The good, the bad, and the ugly Internet resources on articulation
 
-[Article in Brass Pedagogy, Oct. 1, 2016](https://sites.lib.jmu.edu/brasspedagogy/2016/10/01/basic-articulation/)
+### Example 1: [Article in Brass Pedagogy, Oct. 1, 2016](https://sites.lib.jmu.edu/brasspedagogy/2016/10/01/basic-articulation/)
+
+Overall the article provides excellent information. I think some point deserve to be highlighted, and others call for some clarification or expansion. 
 
 I want to call out this part of the article:
 
@@ -34,13 +36,7 @@ In my opinion, players should practice basic articulations at a slow tempo using
 Players who never practice articulation with the glottis except when double- or triple-tonguing rapidly tend to play sloppily and to have difficulty transitioning between single and multiple tonguing. 
 
 
-
-
-## Questionable resources (in my opinion)
-
-Here are some online resources that may lead you astray if you are not attentive to details. Watch out for resources that contain similar information. 
-
-[The Salvation Army Canada and Bermuda Territory Brass Course, Lesson 2.4: Tonguing and Articulation](https://www.youtube.com/watch?v=zNhvpqtmezs) 
+### Example 2: [The Salvation Army Canada and Bermuda Territory Brass Course, Lesson 2.4: Tonguing and Articulation](https://www.youtube.com/watch?v=zNhvpqtmezs) 
 
 In my opinion, this well-intentioned video has the following issues: 
 
