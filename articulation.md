@@ -44,7 +44,7 @@ The title of the lesson reads, "Tonguing and Articulation," but there is never a
 
 The presenter says each note has a beginning, a middle, and an end. He then explains how to use different syllables to start a note in order to achieve various styles: _Too_, _Toh_, _Doo_, _Duh_. The idea of a beginning, middle, and end is reminiscent of the _envelope_ of a sound, but doesn't really explain that concept accurately or completely. He speaks of a "front" to each note, and describes how each of these four syllables affects it. 
 
-This is sorta-kinda superficially not-entirely-wrong, but it is wrong enough to lead inexperienced players down the wrong path. Notes don't have a "front." A sound has an _envelope_ which consists of the _attack_, _sustain_, _decay_, and _release_. 
+This is sorta-kinda superficially not-entirely-wrong, but it is wrong enough to lead inexperienced players down a path from which they will have to return and begin again, sooner or later. Notes don't have a "front." A sound has an _envelope_ which consists of the _attack_, _sustain_, _decay_, and _release_. 
 
 An articulation of some kind may be applied to the attack to achieve a given effect, like _staccato_ or _legato_, but the articulation is not what starts the sound. We start the sound by starting the buzz. When we start a note without articulation, it's called a _breath attack_. What syllable do you say to perform a breath attack? 
 
