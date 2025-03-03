@@ -37,7 +37,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - Trombone posture (coming soon) 
 - [Breathing](breathing.md)
 - [Embouchure](embouchure.md) 
-- Articulation (coming soon) 
+- [Articulation](articulation.md) 
 - Euphonium Technic (coming soon) 
 - Trombone Technic (coming soon) 
 - Musical interpretation (coming soon) 
