@@ -17,7 +17,7 @@ I want to call out this part of the article:
 
 "Students should certainly demonstrate fundamental abilities to maintain their air stream, set their embouchures, and buzz on their mouthpieces before adding tongues into the equation. Yet, introduced and practiced properly, articulation should build on those skills rather than interfere."
 
-Notice there is a distinction between buzzing and articulation. If a player can buzz without using the tongue, then clearly articulation cannot be the mechanism that starts notes. 
+Notice there is a distinction between buzzing and articulation. If a player can buzz without using the tongue, then clearly articulation cannot be the mechanism that starts notes. Remember this whenever you hear or read advice about articulation based on saying syllables, like _too_ and _doo_. 
 
 The author goes on to say: "Fundamental articulation comprises three styles: slurring, separated tonguing, and connected tonguing." I think that's a good summary. 
 
