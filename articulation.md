@@ -31,7 +31,7 @@ In my opinion, we should explain the syllable is a mnemonic device to help the p
 
 The article doesn't mention articulation with the glottis. I think most teachers wouldn't mention this until they get to the subject of double and triple tonguing, and I think that's the reason so many players have difficulty with those forms of articulation. 
 
-In my opinion, players should practice basic articulations at a slow tempo using both the tongue and the glottis, including playing double- and triple-tonguing patters slowly. As they learn to articulate faster and to use multiple tonguing techniques, they don't feel as if they're doing anything special or different than usual; just faster. The results are often cleaner than when they only apply the glottis at faster tempos. 
+In my opinion, players should practice basic articulations at a slow tempo using both the tongue and the glottis, including playing double- and triple-tonguing patterns slowly. As they learn to articulate faster and to use multiple tonguing techniques, they don't feel as if they're doing anything special or different than usual; just faster. The results are often cleaner than when they only apply the glottis at faster tempos. 
 
 Players who never practice articulation with the glottis except when double- or triple-tonguing rapidly tend to play sloppily and to have difficulty transitioning between single and multiple tonguing. 
 
