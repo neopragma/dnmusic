@@ -11,13 +11,13 @@ I often say you can find a great deal of useful information online and in books 
 
 ### Example 1: [Article in Brass Pedagogy, Oct. 1, 2016](https://sites.lib.jmu.edu/brasspedagogy/2016/10/01/basic-articulation/)
 
-Overall the article provides excellent information. I think some point deserve to be highlighted, and others call for some clarification or expansion. 
+Overall the article provides excellent information. I think some points deserve to be highlighted, and others call for some clarification or expansion. 
 
 I want to call out this part of the article:
 
 "Students should certainly demonstrate fundamental abilities to maintain their air stream, set their embouchures, and buzz on their mouthpieces before adding tongues into the equation. Yet, introduced and practiced properly, articulation should build on those skills rather than interfere."
 
-Notice there is a distinction between buzzing and articulation. If a player can buzz without using the tongue, then clearly articulation is not the mechanism that starts notes. 
+Notice there is a distinction between buzzing and articulation. If a player can buzz without using the tongue, then clearly articulation cannot be the mechanism that starts notes. 
 
 The author goes on to say: "Fundamental articulation comprises three styles: slurring, separated tonguing, and connected tonguing." I think that's a good summary. 
 
