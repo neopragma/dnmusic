@@ -36,7 +36,7 @@ Players who never practice articulation with the glottis except when double- or 
 
 In this video, euphoniumist Algirdis Matonis explains and demonstrates basic tonguing technique. I appreciate the way he explains the purpose of thinking about syllables when learning tonguing technique without making the subject entirely about syllables, and how he distinguishes between the front and back of the tongue. The video also explains how the tongue moves without focusing too much on pronouncing syllables. 
 
-The demonstration includes an X-ray video of a player executing single-tonguing techniques in low, middle, and high registers. The placement of the tip of the tongue and the horizontal movement of the tongue are clear, as is the position of the back of the tongue in each register. This is an excellent explanation and demonstration of basic tonguing technique. Although he does mention syllables, he doesn't dwell on this to the extent as most other people. 
+The demonstration includes an X-ray video of a player executing single-tonguing techniques in low, middle, and high registers. The placement of the tip of the tongue and the horizontal movement of the tongue are clear, as is the position of the back of the tongue in each register. This is an excellent explanation and demonstration of basic tonguing technique. Although he does mention syllables, he doesn't dwell on this to the extent most other people do. 
 
 He uses the term "front of the note," as does Example 3 below, and I'm not a fan of that. What we're really doing is controlling the _envelope_ of the sound. I think the latter is a more accurate and useful description of what's happening. 
 
