@@ -4,7 +4,7 @@ I'm a euphoniumist/trombonist and composer/arranger.
 Now retired, I live in Tucson, Arizona, US.
 
 Email: dnmusic at eclipso dot eu  
-Mastodon: @davenicolette@vivaldi.net
+Mastodon: [@davenicolette@vivaldi.net](https://social.vivaldi.net/@davenicolette)
 
 ## Sheet music 
 
@@ -67,6 +67,7 @@ That first session is free. So if you're still not sure how to set goals or whet
 
 - [Why take private lessons?](why-take-private-lessons.md)
 - [What do you need to know to play the euphonium well?](euphonium-need-to-know.md)
+- [Common myths about playing brass instruments](musical-myths.md)
 - Equipment - euphonium (coming soon)
 - Equipment - trombone (coming soon)
 
