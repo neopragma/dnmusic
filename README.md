@@ -39,7 +39,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - [Embouchure](embouchure.md) 
 - [Articulation](articulation.md) 
 - Euphonium Technic (coming soon) 
-- Trombone Technic (coming soon) 
+- [Trombone Technic](trombone-technic.md) 
 - Musical interpretation (coming soon) 
 - [Sight reading](sight-reading.md) 
 - Music theory (coming soon) 
