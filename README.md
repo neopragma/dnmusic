@@ -29,9 +29,9 @@ If you're considering private lessons, please check out the information under [W
 
 Depending on your goals and development needs, individualized guidance can include: 
 
-- Goal-setting and time management (coming soon)
-- Mindful practice (coming soon) 
-- Visualization (coming soon) 
+- [Goal-setting and time management](goal-setting.md)
+- [Mindful practice](mindful-practice.md) 
+- [Visualization](visualization.md) 
 - [Concept](concept.md)
 - [Euphonium posture](euphonium-posture.md)
 - Trombone posture (coming soon) 
