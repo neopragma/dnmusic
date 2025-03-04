@@ -34,7 +34,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - [Visualization](visualization.md) 
 - [Concept](concept.md)
 - [Euphonium posture](euphonium-posture.md)
-- Trombone posture (coming soon) 
+- [Trombone posture](trombone-posture.md) 
 - [Breathing](breathing.md)
 - [Embouchure](embouchure.md) 
 - [Articulation](articulation.md) 

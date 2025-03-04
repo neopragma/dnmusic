@@ -98,7 +98,7 @@ Notice we never go all the way to _fortissimo_ even though the music is marked _
 
 We have to change slide directions three times on the way up, but the distances are minimal. We've chosen slide positions that avoid long distances when we change direction. 
 
-We'll use a relaxed, flexible slide technique instead of trying to jam the slide precisely into position for each individual note (see [trombone technic](trombone-technic.md)).
+We'll use a relaxed, flexible slide technique instead of trying to jam the slide precisely into position for each individual note (see [Trombone Posture](trombone-posture.md)).
 
 We'll apply musical phrasing with a dynamic swell that follows the shape of each phrase. 
 
