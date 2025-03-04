@@ -10,15 +10,15 @@ First, there's the physics of sound; how it works whether anyone is listening or
 
 The falling tree creates vibrations in the air. Those vibrations obey the laws of physics. Physics doesn't care if anyone is listening.
 
-The physics of sound is called _acoustics_. We'll touch on acoustics a little more on this page, with the goal of helping you understand how learning about acoustics can help your playing. 
-
-During a program of private lessons, you would be introduced to more information about acoustics and related topics in the context of building skills on your instrument.
+The physics of sound is called _acoustics_. During a program of private lessons, you would be introduced to more information about acoustics and related topics in the context of building skills on your instrument.
 
 ## The human perception of sound
 
 Second, there's the human perception of sound. Our ears and brains don't directly process sound as it exists physically. When sound waves reach our auditory canal, the vibrations are converted into signals that travel to the auditory cortex. 
 
-What we experience as "hearing" is a little different from what's happening acoustically outside our bodies. _Music_ has to be produced with due consideration of how humans perceive sound. 
+Exactly how we experience those sensations depends on factors such as our health, the sensitivity of our ears, our memory, and our psychology.  
+
+What we experience as "hearing" is a little different from what's happening acoustically outside our bodies. 
 
 Interestingly, what we hear in our own heads when we speak, sing, or play an instrument is different from what other people hear. 
 
