@@ -44,7 +44,7 @@ Depending on your goals and development needs, individualized guidance can inclu
 - [Sight reading](sight-reading.md) 
 - Music theory (coming soon) 
 - Music history (coming soon) 
-- Acoustics (coming soon) 
+- [Acoustics](acoustics.md) 
 - Human perception of sound (coming soon) 
 - [Audience engagement](audience-engagement.md)
 - Managing nerves (coming soon) 
