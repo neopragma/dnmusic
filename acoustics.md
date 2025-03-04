@@ -8,11 +8,11 @@ There are three aspects of sound we need to be aware of.
 
 First, there's the physics of sound; how it works whether anyone is listening or not. The answer to the old question, "If a tree falls in the forest and no one is around to hear it, does it make a sound?" is "Yes." 
 
-The falling tree creates vibrations in the air. Those vibrations obey the laws of physics.
+The falling tree creates vibrations in the air. Those vibrations obey the laws of physics. Physics doesn't care if anyone is listening.
 
 The physics of sound is called _acoustics_. We'll touch on acoustics a little more on this page, with the goal of helping you understand how learning about acoustics can help your playing. 
 
-During a course of private lessons, you would be introduced to more information about acoustics and related topics.
+During a program of private lessons, you would be introduced to more information about acoustics and related topics in the context of building skills on your instrument.
 
 ## The human perception of sound
 
