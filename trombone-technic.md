@@ -113,7 +113,7 @@ In jazz music, trombonists often play slurred passages this way rather than usin
 [Jack Teagarden - "That's a Plenty"](https://www.youtube.com/watch?v=nJeylIJzewU)
 
 Here's a more recent example - Dave Steinmeyer with the U.S. Air Force's Airmen of Note playing Chick Corea's "Spain." The music starts at about offset 1:38. 
-
+ 
 [Dave Steinmeyer - "Spain"](https://www.youtube.com/watch?v=WCjhaBsBvzk)
 
 ## Slide vibrato 
