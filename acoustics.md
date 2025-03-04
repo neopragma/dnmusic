@@ -28,5 +28,7 @@ Third, there's the way sounds are formed and sustained inside our instruments an
 
 This topic relates to the design and acoustical properties of the instruments we play. 
 
-## A little more about acoustics 
+## Musical acoustics 
+
+Musical acoustics is a multidisciplinary field that includes elements of acoustics, human perception, instrument design, and musical concepts. There's a good overview on Wikipedia here: [Musical Acoustics on Wikipedia](https://en.wikipedia.org/wiki/Musical_acoustics). 
 
