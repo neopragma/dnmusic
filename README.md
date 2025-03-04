@@ -69,6 +69,7 @@ That first session is free. So if you're still not sure how to set goals or whet
 - [Why take private lessons?](why-take-private-lessons.md)
 - [What do you need to know to play the euphonium well?](euphonium-need-to-know.md)
 - [Common myths about playing brass instruments](musical-myths.md)
+- [Sexual abuse in the music industry](young-women.md)
 - Equipment - euphonium (coming soon)
 - Equipment - trombone (coming soon)
 
