@@ -2,7 +2,7 @@
 
 _Articulation_ is the use of the tongue or glottis to modify the style in which notes are started. Unfortunately, articulation is an aspect of brass playing that many teachers and musicians misunderstand. Therefore, it is an area of focus in my own private teaching. 
 
-Like certain other aspects of playing, articulation is an area that calls for live, one-on-one guidance. It's difficult to learn by watching videos and reading articles. To give you a sense of what to expect from me as a private teacher, let me offer some comments on few online resources. You can see what I like or dislike about them, and judge for yourself whether you agree or disagree.
+Like certain other aspects of playing, articulation is an area that calls for live, one-on-one guidance. It's difficult to learn by watching videos and reading articles. To give you a sense of what to expect from me as a private teacher, let me offer some comments on a few online resources. You can see what I like or dislike about them, and judge for yourself whether you agree or disagree.
 
 ## The good, the bad, and the ugly Internet resources on articulation
 
