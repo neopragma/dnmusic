@@ -6,7 +6,7 @@ The idea that an instrument has a "character" is subjective to an extent. Yet, t
 
 Your personal concept of the instrument should be based on that general consensus, and can reflect your personal preferences about how the instrument should sound, as well. 
 
-For the euphonium, many people use words like _dark_, _rich_, _mellow_, _sweet_, and _full_ to describe the sound. For the trombone, many people use words like _centered_, _round_, _resonant_, _clear_, and _full_. All these words are subject to interpretation and individual preference.
+For the euphonium, many people use words like _dark_, _rich_, _mellow_, _sweet_, and _full_ to describe the sound. For the trombone, many people use words like _centered_, _round_, _resonant_, _clear_, and _open_. All these words are subject to interpretation and individual preference.
 
 Developing a concept for an instrument is largely a matter of listening carefully to many different top-level players and internalizing the timbre and approach that you find most pleasing. Different players approach the instrument differently, and have their own unique sound. There is no single "correct" concept, but there is a broad consensus. 
 
