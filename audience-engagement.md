@@ -10,9 +10,9 @@ How to we communicate emotion through music? In part, we do it by demonstrating 
 
 ## Emotional communication 
 
-All professional euphonium soloists that I'm aware of (except Anthony Caillet) tend to stand still while performing. Even if they make no mistakes at all, it still feels as if something is missing. 
+Most professional euphonium soloists that I'm aware of tend to stand still while performing. Even if they make no mistakes at all, it still feels as if something is missing. (There are some exceptions, such as Anthony Caillet and Soichiro Tonomura.)
 
-Take a look at these examples of musicians and see whether you feel as if they're communicating the emotional content of the music as they play. What are they doing differently? 
+Take a look at these examples of musicians and see whether you feel as if they're communicating the emotional content of the music as they play. What are they doing differently from most euphonium players you've seen perform? 
 
 Alessandro Beverari, clarinet  
 [E. Morricone, "Nuovo Cinema Paradiso"](https://www.youtube.com/watch?v=Ws7Yj1BuXRI)
@@ -26,11 +26,13 @@ Katharina Mätzler, bassoon
 
 Bertrand Chamayou, piano  
 [Maurice Ravel, "Pavane for a Dead Princess"](https://www.youtube.com/watch?v=cwL4nSb9am8)  
-<span style="font-size:75%">Many musicians overthink and overembellish Ravel, but his style is uncomplicated. How do we communicate engagement with the audience when the music is nuanced? Here we see it isn't necessary to emote excessively to convey the sense that you are engaged with the music. Chamayou communicates a lot of emotion through posture and facial expressions. Beverari and Mätzler move quite a bit as they play. Is it too much? It's a matter of personal preference.</span>
+<span style="font-size:75%">How do we communicate engagement with the audience when the music is nuanced? Chamayou communicates a lot of emotion through posture and facial expressions. Beverari and Mätzler move quite a bit as they play. Is it too much? It's a matter of personal preference.</span>
 
 Gautier Capuçon, cello  
 [Gabriel Faure, "Sicilienne"](https://www.youtube.com/watch?v=1oZY4OJ4R-Y)  
 <span style="font-size:75%">Another example of good engagement with the music without excessive body movement. We don't want to be stock-still, but we don't want to distract the audience's attention from the music, either.</span>
+
+### The eyebrows have it
 
 ![](images/ma-eyebrows-question.png) 
 

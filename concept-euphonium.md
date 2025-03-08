@@ -88,14 +88,15 @@ In my opinion, these players exemplify the "ideal" euphonium concept with respec
 - Hiram Diaz
 - Boonyarit Kittaweepitak 
 - Demondrae Thurman
+- Soichiro Tonamura
 - Glenn van Looy
 - Dave Werden 
 
 In my opinion, these players are very close to the level of those listed above. Each is impressive in many ways. 
 
-- David Childs
 - Emily Braverman
 - Marina Boselli
+- David Childs
 - Nicholas Childs
 - Kevin Fenske
 - Mark Glover
@@ -106,6 +107,8 @@ In my opinion, these players are very close to the level of those listed above. 
 
 ## YouTube videos of soloists 
 
+Bastien Baumet with l'Orchestre Voltige    
+[Thierry Deleruyelle, "Dragonfly"](https://www.youtube.com/watch?v=VXMNsWU4JDE)
 
 Bastien Baumet with l'Orchestre d'harmonie de la Ville du Havre  
 [Ricardo Molla, "The Unknown Soldier"](https://www.youtube.com/watch?v=v9xt3G7VnIo)
@@ -168,6 +171,15 @@ Boonyarit Kittaweepitak with the Thailand Philharmonic Orchestra
 Hiram Diaz with the U.S. Marine Band  
 [Kevin Day, "Euphonium Concerto"](https://www.youtube.com/watch?v=MQZ7qW4mblg)
 
+Soichiro Tonomura with Fukuoka Institute of Technology Wind Instrument Orchestra  
+[Philip Sparke, "Euphonium Concerto No. 1"](https://www.youtube.com/watch?v=MmIRkSXEo8o)
+
+Soichiro Tonomura with Ami Fujiwara, piano  
+[Martin Elleby, "Euphonium Sonata"](https://www.youtube.com/watch?v=8XJ2l8YNt38)
+
+Soichiro Tonomura with Yasuhide Ito, piano  
+[Yasuhido Ito, "Fantastic Variations"](https://www.youtube.com/watch?v=ILZ0mwmMCf4)
+
 Kevin Fenske with the University of Texas at Austin Symphony Band  
 [Patrick Schulz, "Concerto for Euphonium and Wind Ensemble"](https://www.youtube.com/watch?v=NzDhd-Q8DtA)
 
@@ -188,6 +200,9 @@ Brian Bowman with Miya Suen, piano
 
 Brian Bowman with the San Diego Summer Music Institute Wind Ensemble  
 [H.L. Clarke, "Carnival of Venice"](https://www.youtube.com/watch?v=edfkwj6BL_s)
+
+David Childs with the North Texas Brass Band  
+[Peter Graham, "Force of Nature"](https://www.youtube.com/watch?v=d7hx2nRLs6U)
 
 David Childs with Chris Williams, piano  
 [Karl Jenkins, "A Troika? Tidy!" from euphonium concerto](https://www.youtube.com/watch?v=K58nOhXL-DY)
