@@ -49,7 +49,7 @@ An indication of too little pressure is that air escapes between your lips and t
 
 A possible indication of excessive pressure is a red ring that forms where the rim of the mouthpiece contacts your face. 
 
-[Steven Mead](images/Steven%20Mead%20Ring%20Around%20Lips.png) 
+![Steven Mead](images/Steven%20Mead%20Ring%20Around%20Lips.png) 
 
 The photo is of renowned euphonium soloist Steven Mead. It's a screen capture from a video of his in which he demonstrates how to practice a certain piece of music. The red ring may be caused by any of the following:
 
