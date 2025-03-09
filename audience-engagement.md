@@ -74,3 +74,16 @@ It's more effective to "milk" the last phrase of a piece. If it's a slow, quiet 
 
 The trick here is that the audience will remember the thoughtful or triumphant conclusion of the piece and forget all the mistakes you made along the way. The way you finish will stick in their memory as they leave the venue. Give them a strong ending to remember. If you give them a weak ending, they'll look for something else to remember instead...like your mistakes.
 
+## Annotated Examples 
+
+Here are some YouTube videos of euphoniumists and others performing solos. Let's see if we can learn anything from these videos that might help us improve our own stage presence and audience engagement.
+
+#### Example 1: Lewis Catto with the Granite City Brass (2013)
+
+As of this writing (March 2025), Lewis Catto is the solo euphoniumist with the [Granite City Brass](https://www.granitecitybrass.co.uk) band in Aberdeen, Scotland. The band was the winner in the [Scottish Brass Band Championships](https://www.sbba.org.uk/news/6989/bruce-bows-out-of-conducting-granite-city-brass-with-a-victory) just yesterday, as I write this. Catto won the Best Instrumentalist award in the competition. 
+
+Let's take a look at [this 2013 recording of the band](https://www.youtube.com/watch?v=iBxhInq8u7Q) in a performance of "Rhapsody for Euphonium" by James Curnow.
+
+What do you notice regarding audience engagement or any other details that might help you improve your own playing skills and stage presence? Make your own observations before reading [my notes](catto-notes.md).
+
+
