@@ -41,3 +41,24 @@ I want to avoid going into detail here, because your embouchure is unique to you
 
 [Embouchures.com (fixing broken embouchures)](https://www.embouchures.com)
 
+## Pressure 
+
+How firmly should we press the mouthpiece against our lips when we play? We need to form a seal, but we don't want to interfere with the movement of our muscles or damage anything. In general, aim for just enough pressure to form a seal and no more than that. 
+
+An indication of too little pressure is that air escapes between your lips and the mouthpiece. Also check to see that you're setting your embouchure correctly before playing. In the attempt to minimize pressure, some people pull back so much that they are relying on the lips to create the buzz without adequate support from the embouchure muscles.
+
+A possible indication of excessive pressure is a red ring that forms where the rim of the mouthpiece contacts your face. 
+
+[Steven Mead](images/Steven%20Mead%20Ring%20Around%20Lips.png) 
+
+The photo is of renowned euphonium soloist Steven Mead. It's a screen capture from a video of his in which he demonstrates how to practice a certain piece of music. The red ring may be caused by any of the following:
+
+- excessive pressure
+- extended practice time 
+- natural complexion 
+
+When practicing, it's sometimes a good idea to check yourself in a mirror periodically to look for a red ring like this. If it occurs early in a practice session, it may indicate you're using excessive pressure. Blow out your lips and relax for five minutes before you resume practicing, and then pay special attention to how much pressure you're using. 
+
+If you don't see a red ring until late in a long practice session or rehearsal, it may be a result of fatigue from playing for an extended time. Check yourself to see if you're getting tired "in the right places" - that is, your embouchure muscles instead of your upper lip. You may want to do a warm-down and rest for a couple of minutes before resuming, and a slow warm-down at the end of the session to help your embouchure muscles stretch and relax. 
+
+If your complexion is pale, like Mead's, the red ring might not signal anything about pressure against the mouthpiece. Blood naturally comes to the surface of your skin as you play, and in very pale individuals this is visible. Pay close attention to how your chops feel and remember to take short breaks during extended practice sessions to relax your embouchure. 
