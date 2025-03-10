@@ -6,6 +6,7 @@ These are observations I made when watching the video that I think I can use to 
 
 _My take-away: Ask someone who knows about such things to teach me how to walk onto the stage and present myself to the audience. Then practice doing so until it looks natural._
 
+{:start="2"}
 2. Posture. His instrument is between his face and the audience. He holds the euphonium almost vertically. That isn't "bad" as such, but in this situation the effect is that he's hiding from the audience. 
 
 _My take-away: Angle the euphonium a little more so the audience can see my face. (Note: This only applies to euphoniums with valves top. A model with valves front wouldn't have this issue.)_
