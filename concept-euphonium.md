@@ -129,7 +129,13 @@ In my opinion, these players are very close to the level of those listed above. 
 - Algirdas Matonis
 - Steven Mead
 - Diego Lopez Ruiz
-- Daniel Thomas
+- Daniel Thomas  
+
+## Dave Werden's list 
+
+Dave Werden's website has a list of links to excellent euphonium and baritone horn performances: [Werden's euphonium videos page](https://www.dwerden.com/music-videos/euphonium-music-videos.cfm?vid=1091)
+
+The same page features a video of Werden playing Claude T. Smith's _Rondo for Trumpet_ on euphonium with the United States Coast Guard Band in 1979; a fantastic performance.
 
 ## YouTube videos of soloists 
 
