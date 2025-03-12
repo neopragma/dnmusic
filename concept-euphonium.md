@@ -80,7 +80,7 @@ Example 3: [Øystein Baadsvik plays _Czardas_ in his TED talk about the tuba](ht
 
 Baadsvik is a professional soloist who brings the instrument to general audiences to raise awareness and appreciation for it. There's no question that he's an accomplished musician. But listen to the fast passages here and you may notice that while his fingers are manipulating the valves perfectly, almost all we can hear is valve noise and not clean notes. 
 
-Example 3: [Wilfried Brandstötter and the Mnozil Brass](https://www.youtube.com/watch?v=_cf2x3nqKaM)
+Example 4: [Wilfried Brandstötter and the Mnozil Brass](https://www.youtube.com/watch?v=_cf2x3nqKaM)
 
 In this video, Brandstötter shows us that it's possible to play fast passages in any register on the tuba without introducing valve noise. This is what we want in our minds as part of our _concept_ of the euphonium. (His [audience engagement](audience-engagement.md) is also pretty intense.)
 
