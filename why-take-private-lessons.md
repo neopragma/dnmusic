@@ -47,7 +47,7 @@ Private lessons will supplement the learning you can obtain through the people a
 
 ### Does your goal for playing align with your life situation?
 
-Is your goal realistic in view of your other interests and responsibilities in life? Are you an adult with a family to support? A student who has three or four equally-important interests besides music? Do you need to balance family time, friends time, and study time with practice time? There's a limit to how much you can realistically commit to. 
+Is your goal realistic in view of your other interests and responsibilities in life? Are you an adult with a family to support? An amateur musician who has three or four equally-important interests besides music? A student who must balance family time, friends time, and study time with practice time? There's a limit to how much you can realistically commit to. 
 
 You need to be honest with yourself about this. Otherwise, you might agree to a practice schedule that you just can't sustain. 
 
