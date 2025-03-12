@@ -62,6 +62,30 @@ Some players don't care much about this and consider the noise part of the chara
 
 For what it's worth, I'm in the latter camp. I tend to focus on clean playing to a greater extent than most players I know - to the point that they sometimes tease me about it. 
 
+Many euphonium players insist they don't hear any valve noise when they play, even when it seems obvious to me. It's possible they have become accusomted to it and don't notice it. To make it easier to hear, let's compare some tuba players. 
+
+Valve noise is more obvious on larger brass instruments than on smaller ones. The valves are larger and the tubes are larger in diameter, so on a larger instrument the time during a transition between notes when two tubes are partially covered is longer than on a smaller instrument. This kind of noise isn't really a problem on trumpet or cornet; it can be a problem on baritone or euphonium; and it's definitely a problem on tuba.
+
+Listen to these examples and see if you hear any valve noise. Note: These are all professional-level players. The point is not to criticize them, but to help you cultivate a _concept_ based on the most "perfect" result you can imagine. A secondary point is to give you a sense of the expectations I will want you to set for yourself, should you engage me as a private teacher.
+
+Example 1: [Jeremy Lewis, professor of tuba and euphonium at West Texas A&M University (2024)](https://www.youtube.com/watch?v=W6ZFSGdC44I)
+
+In this video, Lewis demonstrates an etude that is used in auditions, to help students master it. It's a lyrical etude that consists mostly of slurred phrases. Valve noise is very noticeable in every transition between notes. We need to be conscious of this and not train our ears to ignore it. 
+
+Example 2: [Eduardo Nogueroles, tuba solo from James Barnes' _Third Symphony for Band_](https://www.youtube.com/watch?v=ribMR6UL2xg)
+
+In contrast, Nogueroles' performance of this solo, played on a large tuba, illustrates clean transitions between notes without noticeable valve noise. This is the kind of smoothness we want to become part of our _concept_. 
+
+Example 3: [Øystein Baadsvik plays _Czardas_ in his TED talk about the tuba](https://www.youtube.com/watch?v=dtspakRGSB8)
+
+Baadsvik is a professional soloist who brings the instrument to general audiences to raise awareness and appreciation for it. There's no question that he's an accomplished musician. But listen to the fast passages here and you may notice that while his fingers are manipulating the valves perfectly, almost all we can hear is valve noise and not clean notes. 
+
+Example 3: [Wilfried Brandstötter and the Mnozil Brass](https://www.youtube.com/watch?v=_cf2x3nqKaM)
+
+In this video, Brandstötter shows us that it's possible to play fast passages in any register on the tuba without introducing valve noise. This is what we want in our minds as part of our _concept_ of the euphonium. (His [audience engagement](audience-engagement.md) is also pretty intense.)
+
+Another detail to notice in these examples is the players' [embouchoures](embouchure.md). Nogueroles and Brandstötter maintain an embouchure with tight corners and a flat chin throughout all registers of the instrument, while Lewis and Baadsvik tend to puff out their cheeks in the low register. Some teachers call this an embouchure "collapse." Many players do this on low brass instruments when they haven't developed their embouchures suffiently to play consistently in all registers. Be aware it is a workaround and not something to aim for.
+
 ### Valve clatter
 
 A second type of noise can occur when metallic parts come into direct contact. The instrument is made almost entirely of metal. 
