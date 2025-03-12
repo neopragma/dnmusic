@@ -110,7 +110,7 @@ Now let's apply the same thinking to the next phrases.
 
 ![](images/william-tell-2.png)
 
-A small digression to mention slide technique: Many players use a "slidey" technique and never flex their wrists; all the movement is from the elbow. Notice two sequences of notes in the above. First line, bar 4, we're moving through positions 3-2-3-3-2-1-2-3; second line, bar3, we have 3-2-3-3-2-1-2-3. When I play these sequences, my elbow stays in position for 3rd position and I only move my wrist. This feels more relaxed than pumping the elbow. Just a thought. (End digression.)
+A small digression to mention slide technique: Many players use a "slidey" technique and never flex their wrists; all the movement is from the elbow. Notice two sequences of notes in the above. First line, bar 4, we're moving through positions 3-2-3-3-2-1-2-3; second line, bar3, we have 3-2-3-3-2-1-2-3. When I play these sequences, my elbow stays in place for 3rd position and I only move my wrist. This feels more relaxed than pumping the elbow. Just a thought. (End digression.)
 
 We have enough knowledge to play the music expressively, even if it's our first time and we miss a few notes along the way. 
 
