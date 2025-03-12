@@ -84,7 +84,9 @@ Example 3: [Wilfried Brandstötter and the Mnozil Brass](https://www.youtube.com
 
 In this video, Brandstötter shows us that it's possible to play fast passages in any register on the tuba without introducing valve noise. This is what we want in our minds as part of our _concept_ of the euphonium. (His [audience engagement](audience-engagement.md) is also pretty intense.)
 
-Another detail to notice in these examples is the players' [embouchoures](embouchure.md). Nogueroles and Brandstötter maintain an embouchure with tight corners and a flat chin throughout all registers of the instrument, while Lewis and Baadsvik tend to puff out their cheeks in the low register. Some teachers call this an embouchure "collapse." Many players do this on low brass instruments when they haven't developed their embouchures suffiently to play consistently in all registers. Be aware it is a workaround and not something to aim for; and don't overlook the difference in the results of players who develop their embouchures properly.
+Another detail to notice in these examples is the players' [embouchoures](embouchure.md). Nogueroles and Brandstötter maintain an embouchure with tight corners and a flat chin throughout all registers of the instrument, while Lewis and Baadsvik tend to puff out their cheeks in the low register. 
+
+Some teachers call this an embouchure "collapse." Many players do this on low brass instruments when they haven't developed their embouchures suffiently to play consistently in all registers. Be aware it is a workaround and not something to aim for; and don't overlook the difference in the results of players who develop their embouchures properly.
 
 ### Valve clatter
 
