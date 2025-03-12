@@ -14,7 +14,7 @@ Many players hold the slide in a way that causes the palm of the hand to face th
 
 Now turn your wrist so the palm is facing you and try the same motion. It feels much more natural and fluid, doesn't it? 
 
-Some players think they must move the slide in a way that approximates valves. They try to move the slide from position to position instantaneously, and sort of "snap" it into each position There are times when the music calls for very precise changes in slide position. There are other times when the "slidey" character of the trombone is wanted. 
+Some players think they must move the slide in a way that approximates valves. They try to move the slide from position to position instantaneously, and sort of "snap" it into each position. There are times when the music calls for very precise changes in slide position, and a "snappy" slide techic is appropriate. There are other times when the "slidey" character of the trombone is wanted. 
 
 #### Example 1: Tam O'Shanter
 
