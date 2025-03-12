@@ -83,7 +83,7 @@ That's because an advanced player may not be able to help a beginner get started
 
 On the other hand, an experienced music teacher such as a high school band director has a lot of experience working with inexperienced musicians; in most cases, they have the same experience again and again year after year. 
 
-What's missing is direct experience with the day-to-day life of a professional musician. So, there's a limit to what they can help you with beyond a certain point.
+What they may be missing is direct experience with the day-to-day life of a professional musician. So, there's a limit to what they can help you with beyond a certain point.
 
 A note to high schoolers: According to an article in _EdWeek_ from 2021, there are some 27,155 secondary and high schools in the United States. If you are second chair in your school band, don't assume that means you are an "advanced" player. You _might_ be, but it's statistically unlikely. Compare yourself to your own band/orchestra director playing _their_ primary instrument, rather than to other kids in your section. 
 
