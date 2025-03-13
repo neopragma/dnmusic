@@ -86,7 +86,7 @@ In this video, Brandstötter shows us that it's possible to play fast passages i
 
 Another detail to notice in these examples is the players' [embouchures](embouchure.md). Nogueroles and Brandstötter maintain an embouchure with tight corners and a flat chin throughout all registers of the instrument, while Lewis and Baadsvik tend to puff out their cheeks in the low register. 
 
-Some teachers call this an embouchure "collapse." Many players do this on low brass instruments when they haven't developed their embouchures suffiently to play consistently in all registers. Be aware it is a workaround and not something to aim for; and don't overlook the difference in the results of players who develop their embouchures properly.
+Some teachers call this an embouchure "collapse." Many players do this on low brass instruments when they haven't developed their embouchures suffiently to play consistently in all registers, especially when descending to the low register after having played in a higher register. Be aware it is a workaround and not something to aim for; and don't overlook the difference in the results of players who develop their embouchures properly.
 
 ### Valve clatter
 
