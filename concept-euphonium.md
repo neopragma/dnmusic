@@ -78,7 +78,7 @@ In contrast, Nogueroles' performance of this solo, played on a large tuba, illus
 
 Example 3: [Øystein Baadsvik plays _Czardas_ in his TED talk about the tuba](https://www.youtube.com/watch?v=dtspakRGSB8)
 
-Baadsvik is a professional soloist who brings the instrument to general audiences to raise awareness and appreciation for it. There's no question that he's an accomplished musician. But listen to the fast passages here and you may notice that while his fingers are manipulating the valves perfectly, almost all we can hear is valve noise and not clean notes. 
+Baadsvik is a professional soloist who brings the instrument to general audiences to raise awareness and appreciation for it. There's no question that he's an accomplished musician. But listen to the fast passages here and you may notice that while his fingers are manipulating the valves with great speed, almost all we can hear is valve noise and not clean notes. 
 
 Example 4: [Wilfried Brandstötter and the Mnozil Brass](https://www.youtube.com/watch?v=_cf2x3nqKaM)
 
