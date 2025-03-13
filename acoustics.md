@@ -32,7 +32,9 @@ This is a particularly important topic for euphonium players to understand, due 
 
 It's important to understand the design trade-offs the instrument maker made in creating the model of euphonium you are playing. The valve slides are of different lengths in different models - three-valve, four-valve, five-valve, and four-valve compensating designs. 
 
-The player must make adjustments specific to the type of euphonium to ensure good intonation. The adjustments may include lipping the pitch up or down, setting the tuning slides to appropriate positions, and choosing alternate fingerings in selected musical passages. 
+Instruments with different bore widths have slightly different acoustical properties. Different mouthpieces fitted into the receiver will affect intonation and how free-blowing the instrument is. On euphoniums with adjustable receiver gaps, different gap settings will affect intonation and other properties of the instrument. 
+
+The player must make adjustments specific to the type of euphonium as well as their mouthpiece to ensure good intonation. The adjustments may include lipping the pitch up or down, setting the tuning slides to appropriate positions, and choosing alternate fingerings in selected musical passages. 
 
 Besides all that, the intonation of the instrument changes as its temperature changes and as you warm up and then grow tired during playing sessions. 
 
