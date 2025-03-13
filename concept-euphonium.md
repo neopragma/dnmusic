@@ -54,7 +54,7 @@ Valve noise itself isn't a matter of "concept." It's a physical reality. But eac
 
 ### Air puffs
 
-The valves redirect the air stream from one path to another through the intrument. They do this by channeling the air stream between the ends of different tubes. "Tunnels" in the valves line up with the ends of different tubes. When the "tunnel" aligns with the end of a tube, the air flow through that tube. Otherwise, the solid part of the valve blocks access to the tube. This is the same for rotary and piston valves. 
+The valves redirect the air stream from one path to another through the intrument. They do this by channeling the air stream between the ends of different tubes. "Tunnels" in the valves line up with the ends of different tubes. When the "tunnel" aligns with the end of a tube, the air flows through that tube on its way to the bell. Otherwise, the solid part of the valve blocks access to the tube. This is the same for rotary and piston valves. 
 
 Inevitably, there will be a non-zero length of time when the air stream is split between the old and new paths as we close or open a valve. 
 
