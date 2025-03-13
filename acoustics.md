@@ -28,6 +28,14 @@ Third, there's the way sounds are formed and sustained inside our instruments an
 
 This topic relates to the design and acoustical properties of the instruments we play. 
 
+This is a particularly important topic for euphonium players to understand, due to the intonation problems inherent in valved brass instruments. Those problems are exacerbated in larger instruments, such as euphonium and tuba. 
+
+It's important to understand the design trade-offs the instrument maker made in creating the model of euphonium you are playing. The valve slides are of different lengths in different models - three-valve, four-valve, five-valve, and four-valve compensating designs. 
+
+The player must make adjustments specific to the type of euphonium to ensure good intonation. The adjustments may include lipping the pitch up or down, setting the tuning slides to appropriate positions, and choosing alternate fingerings in selected musical passages. 
+
+Besides all that, the intonation of the instrument changes as its temperature changes and as you warm up and then grow tired during playing sessions. 
+
 ## Musical acoustics 
 
 Musical acoustics is a multidisciplinary field that includes elements of acoustics, human perception, instrument design, and musical concepts. There's a good overview on Wikipedia here: [Musical Acoustics on Wikipedia](https://en.wikipedia.org/wiki/Musical_acoustics). 
