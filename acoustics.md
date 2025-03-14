@@ -30,11 +30,15 @@ This topic relates to the design and acoustical properties of the instruments we
 
 This is a particularly important topic for euphonium players to understand, due to the intonation problems inherent in valved brass instruments. Those problems are exacerbated in larger instruments, such as euphonium and tuba. 
 
-It's important to understand the design trade-offs the instrument maker made in creating the model of euphonium you are playing. The valve slides are of different lengths in different models - three-valve, four-valve, five-valve, and four-valve compensating designs. 
+Without going into too much detail, the issue is that the valve slides are of fixed length, while we need to add a _proportional_ length of tubing to lower the pitch by a given amount. That is, we need to add more length in the lower register than the higher register. 
 
-Instruments with different bore widths have slightly different acoustical properties. Different mouthpieces fitted into the receiver will affect intonation and how free-blowing the instrument is. On euphoniums with adjustable receiver gaps, different gap settings will affect intonation and other properties of the instrument. 
+So, the valve tubing lengths are a compromise - too short (sharp) for low notes, a little long (flat) for high notes, and more-or-less okay for the middle register. The intonation differences are easier to hear in larger instruments than smaller ones, so the problem is greatest for tuba and fairly significant for euphonium.
 
-The player must make adjustments specific to the type of euphonium as well as their mouthpiece to ensure good intonation. The adjustments may include lipping the pitch up or down, setting the tuning slides to appropriate positions, and choosing alternate fingerings in selected musical passages. 
+It's important to understand the design trade-offs the instrument maker made in creating the model of euphonium you are playing, in an attempt to enable the instrument to be played in tune. The valve slides are of different lengths in different models - three-valve, four-valve, five-valve, and four-valve compensating designs. 
+
+In addition, instruments with different bore widths have slightly different acoustical properties. Different mouthpieces fitted into the receiver will affect intonation and how free-blowing the instrument is. On euphoniums with adjustable receiver gaps, different gap settings will affect intonation and other properties of the instrument. 
+
+The player must make adjustments specific to the type of euphonium as well as their mouthpiece and their embouchure to ensure good intonation. The adjustments may include selecting an appropriate mouthpiece, adjusting the receiver gap (if possible), lipping the pitch up or down, setting the tuning slides to appropriate positions, and choosing alternate fingerings in selected musical passages. 
 
 Besides all that, the intonation of the instrument changes as its temperature changes and as you warm up and then grow tired during playing sessions. 
 
