@@ -62,7 +62,7 @@ Some players don't care much about this and consider the noise part of the chara
 
 For what it's worth, I'm in the latter camp. I tend to focus on clean playing to a greater extent than most players I know - to the point that they sometimes tease me about it. 
 
-Many euphonium players insist they don't hear any valve noise when they play, even when it seems obvious to me. It's possible they have become accusomted to it and don't notice it. To make it easier to hear, let's compare some tuba players. 
+Many euphonium players insist they don't hear any valve noise when they play, even when it seems obvious to me. It's possible they have become accustomed to it and don't notice it. To make it easier to hear, let's compare some tuba players. 
 
 Why tuba? Valve noise is more obvious on larger brass instruments than on smaller ones. The valves are larger and the tubes are larger in diameter, so on a larger instrument the time during a transition between notes when two tubes are partially covered is longer than on a smaller instrument. This kind of noise isn't really a problem on trumpet or cornet; it can be a problem on baritone or euphonium; and it's definitely a problem on tuba.
 
