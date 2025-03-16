@@ -262,7 +262,7 @@ Diego Lopez Ruiz with unidentified pianist
 
 ## Orchestral and band excerpts 
 
-Bryan Fulcher, Philharmonia Principal Trombonist  
+Byron Fulcher, Philharmonia Principal Trombonist  
 [Bydlo, Don Quixote, Mahler 7th, "Jupiter" from The Planets](https://www.youtube.com/watch?v=l5aomOpZoaU) 
 
 U.S. Army Field Band  
