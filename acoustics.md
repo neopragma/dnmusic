@@ -118,7 +118,14 @@ _compensating tubing is engaged_
 - 134 
 - All 4 valves 
 
+## What about the trombone? 
 
+Alone among the brass family, the trombone doesn't have the inherent intonation problems of valved brass instruments. You can position the slide in exactly the right spot to get the correct pitch for any note. That's the good news. The bad news is that you _must_ position the slide in exactly the right spot to get the correct pitch for any note.
 
+## Do you really have to know all this stuff?
 
+If you're reading this as a way to get a sense of how it would be to work with me as a private teacher, just know that I tend to go into details like this. Don't worry if it doesn't interest you. You can "get by" without understanding it. There are plenty of amateur players who use the fingerings or slide positions they've learned by rote, and aren't aware of musical acoustics.
 
+They're the ones who write the fingerings or slide positions on their sheet music, who struggle with sight-reading, who aren't aware of alternate fingerings or slide positions, and who must ask the director whether they're sharp or flat when the band is tuning. This level of detail is not necessary unless you aspire to advance beyond that level. 
+
+To be fair, not everyone does, and that's fine. Many amateur musicians enjoy playing in community bands and orchestras as a social activity. I don't think they need to take private lessons.
