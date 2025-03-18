@@ -19,6 +19,10 @@ Sheet music sites like to post YouTube links to published pieces, if any exist. 
 
 I also accept commissions. 
 
+## Gigs
+
+Available for gigs in the Tucson area and anywhere within about 2 hours by car along Interstate 10.
+
 ## Private lessons 
 
 I'm interested in working with people who love the same instruments as I do, and who are at least _somewhat_ serious about improving their playing. Whether your goals are ambitious or modest, I can help you achieve them. 
