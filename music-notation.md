@@ -190,6 +190,10 @@ In addition, there are indications in the written music to suggest how fast the 
 
 Figure 10: March tempo example
 
+This means each _pulse_ or _beat_ is represented by a _quarter note_ in the written music, and the beats move along at a pace of 120 beats per minute. So each quarter note or rest lasts for half a second. 
+
+I think you can see the spreadsheet analogy here. The columns indicate the notes and silences, the rows indicate the timing.
+
 That's enough detail for the purpose of this page. There are a lot of variations on this which we can cover in private lessons, and that you can learn about by looking for information online and in books.
 
 The key take-away for now is that there are standard notational conventions, and once you have learned them you will be able to sight-read effectively, including playing with the appropriate style in addition to getting the notes and rhythms right.
