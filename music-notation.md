@@ -166,7 +166,33 @@ The same applies to modern-day instruments. A written C for a clarinet in Bb sou
 
 When brass instruments became popular in the 19th century, instrument makers followed the same approach to build families of brass instruments. 
 
-[More on that on a separate page.](transposing-parts.md)
+[More on that on a separate page.](transposing-parts.md) 
+
+## Representing time 
+
+Music almost always has a regular _pulse_ or _beat_. That aspect of music has to be represented in the written notation, too. 
+
+Written _notes_ indicate what pitches we should play and for how long we should sustain the sound. _Rests_ indicate places in the music where we should not play; the times to be silent. 
+
+The shapes of the notes and rests suggest their duration. The durations are not absolute, but are relative to a given _tempo_ (speed) and the type of note that gets the pulse or beat. 
+
+That is indicated by two numerals, one above the other. The upper numeral denotes how many beats are in each bar, and the lower numeral denotes the type of note that gets the beat. 
+
+Figure 9 shows _whole notes_ (Brit.: _semibreve_) and _whole rests_ in "four-four" time. Four-four time means a _quarter note_ (1/4 as long as a whole note) gets the beat, and there are four of them in each bar (or measure).
+
+![](images/whole-notes-and-rests.png)
+
+Figure 9: Whole notes and rests
+
+In addition, there are indications in the written music to suggest how fast the beats go. This may be an Italian musical term, like _adagio_ or _moderato_; a descriptive word or phrase, like "blues" or "festive"; a metronome setting; or a combination. 
+
+![](images/march-tempo-example.png)
+
+Figure 10: March tempo example
+
+That's enough detail for the purpose of this page. There are a lot of variations on this which we can cover in private lessons, and that you can learn about by looking for information online and in books.
+
+The key take-away for now is that there are standard notational conventions, and once you have learned them you will be able to sight-read effectively, including playing with the appropriate style in addition to getting the notes and rhythms right.
 
 
 
