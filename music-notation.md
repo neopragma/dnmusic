@@ -114,11 +114,15 @@ Music for xylophone, glockenspiel, and piccolo sounds one octave higher than wri
 
 ![](images/piccolo-and-contrabassoon.png)
 
+Figure 6: Adjustments in notation for high and low instruments
+
 The treble clef makes sense for the violin and the bass clef makes sense for the cello. But the middle range of the viola doesn't quite fit onto the treble or bass clef staves. 
 
 So, music for viola moves the staff to center it on the middle range of the instrument. Another clef, called a _C clef_, marks the line on which the _middle C_ (C4) is written. When the C clef brackets the third line of the staff, it's called _alto clef_. 
 
 ![](images/string-quartet.png)
+
+Figure 7: Alto clef
 
 Alto clef is relevant to the trombone, because in the 19th century most orchestral music called for alto trombones based on Eb or D rather than tenor trombones based on Bb. 
 
@@ -141,6 +145,8 @@ Tenor clef is relevant for instruments that generally play in the low register, 
 Music for trombone, euphonium, bassoon, and cello frequently changes between bass clef and tenor clef. This is an F major arpeggio written first in bass clef and then in tenor clef. 
 
 ![](images/bass-clef-and-tenor-clef.png)
+
+Figure 8: Tenor clef
 
 ## Transposing parts 
 
