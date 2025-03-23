@@ -20,6 +20,8 @@ So, musical notation like this:
 
 ![](images/musical-notation-1.png)
 
+Figure 1: A simple example
+
 means to play a C for 1 second, then a D for 1 second, then an E for 2 seconds. 
 
 When you're first learning, you might have to think consciously about how to produce the notes on your instrument and how long to hold each note, but after a while this becomes automatic. 
@@ -36,7 +38,7 @@ People decided to separate out a limited number of lines to make it easier to re
 
 The notes are written on the lines or in the spaces between the lines. Notes higher in pitch are written higher on the staff, and notes lower in pitch are written lower on the staff. 
 
-When a note doesn't "fit" on the staff, we add a short line, called a _ledger line_, so we can write notes above or below the staff. The first note in the example, a C, illustrates the use of a ledger line. 
+When a note doesn't "fit" on the staff, we add a short line, called a _ledger line_, so we can write notes above or below the staff. The first note in Figure 1, a C, illustrates the use of a ledger line. 
 
 So far, so good. But how can we tell which note is represented by each line and space? I call those three notes C, D, and E, but how do I know those are the right notes?
 
@@ -56,6 +58,8 @@ They decided that the center of the keyboard was "middle C," and they agreed tha
 
 ![](images/great-staff.png)
 
+Figure 2: The Great (or Grand) Staff
+
 There's middle C, in the middle of the keyboard and in the middle of the two staves that make up the Great Staff. 
 
 The lower of the two staves has a different _clef_ sign than the upper one. That one is called an _F clef_ because it shows the position of the note "F" on the staff, and earlier versions of the symbol resembled the letter F. It shows the F below middle C is written on the fourth line of the lower staff. 
@@ -70,9 +74,13 @@ This image (borrowed from allaboutmusictheory.com) illustrates the note naming c
 
 ![](images/CsLabeledScientific.webp)
 
+Figure 3: Scientific Pitch Notation
+
 Here's where the various C's appear on the Great Staff:
 
 ![](images/note-names-on-great-staff.png)
+
+Figure 4: Where the C's fit on the Great Staff
 
 ## Why C and not A?
 
@@ -89,6 +97,8 @@ So, in those days it made sense to say A was the most basic starting note, and i
 Where do the euphonium and trombone fit into this scheme? 
 
 ![](images/euph-trb-b-flats.png)
+
+Figure 5: Trombone and Euphonium Bb's
 
 The euphonium and trombone are both based on Bb. The bore is 9 feet long, and a single standing wave 9 feet long sounds at the pitch of Bb1. 
 
